@@ -1,0 +1,51 @@
+/*!
+ * Bootstrap v3.2.0 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ *//*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.list-group {
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+
+ul li, ol li {
+    margin-bottom: 0.5em;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.media:first-child {
+    margin-top: 0;
+}
+.media, .media .media {
+    margin-top: 15px;
+}
+.media, .media-body {
+    overflow: hidden;
+    zoom: 1;
+}
+.media>.pull-left {
+    margin-right: 10px;
+}
+.pull-left {
+    float: left!important;
+}
+.pull-left {
+    float: left;
+}
+.text-center {
+    text-align: center;
+}
+.text-left {
+    text-align: left;
+}

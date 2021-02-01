@@ -36,3 +36,16 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
+{% if page.title == "Publications" %}
+	<link rel="stylesheet" href="/assets/css/bootstrap.css">
+	<style type="text/css">
+	@media screen and (max-width:500px)
+	{
+		.auto-hide-image img 
+		{
+			display: none;
+		}
+	}
+	</style>
+{% endif %}
