@@ -1,19 +1,21 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
-html {
-  /* sticky footer fix */
-  position: relative;
-  min-height: 100%;
-}
+/*CHANGE:
+AM: added properties in body to fix footer at the bottom of the page*/
+
 
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+
+  min-height: 100%; /*AM: footer update*/
+  position: relative; /*AM: footer update*/
+  padding-bottom: 127px; /*AM: footer update*/
+
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

@@ -67,7 +67,10 @@
 
     @each $_type, $_req in $requirements {
       @each $_i in $_req {
-        $_pass: call(get-function(unquote("#{$_type}-exists")), $_i);
+        /*$_pass: call(unquote("#{$_type}-exists"), $_i);*/
+        $_pass: call(get-function("#{$_type}-exists"), $_i);
+        /*Fixed the following error: DEPRECATION WARNING: Passing a string to call() is deprecated and will be illegal
+          in Sass 4.0. Use call(get-function("mixin-exists")) instead.*/
 
         @if not($_pass) {
           $_fail: true;

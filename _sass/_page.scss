@@ -1,11 +1,14 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
+/*CHANGE:
+AM: added properties in .page to change the content portion padding
+AM: added padding-top in main for sticky nav bar*/
 
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  padding-top: 105px; /* AM: added for sticky nav bar, originally 81px*/
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -21,6 +24,10 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+    padding-left: 0px; /*AM: content padding update*/
+    padding-right: 0px; /*AM: content padding update*/
+    width: 100%; /*AM: content padding update*/
+
   }
 
   .page__inner-wrap {
@@ -73,7 +80,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;

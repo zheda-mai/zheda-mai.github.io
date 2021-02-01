@@ -1,22 +1,37 @@
 # main links links
 main:
+
+  - title: "Home"
+    url: /
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/
+
+  - title: "Industry"
+    url: /industry/
+
+  - title: "Scholarships"
+    url: /scholarships/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
+    url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://averyma.github.io/files/cv_github.pdf
     
   # - title: "Guide"
   #   url: /markdown/
+  
+  # - title: "Contact"
+  #   url: /contact/
+
+

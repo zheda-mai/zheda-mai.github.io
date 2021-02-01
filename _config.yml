@@ -7,21 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheda Mai's Homepage"
+title                    : "Avery Ma"
 title_separator          : "-"
-name                     : &name "Zheda Mai"
-description              : &description "MASc"
-description              : &description "Machine Learning Engineer"
-description              : &description "University of Toronto"
-url                      : https://zheda-mai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Avery Ma"
+description              : &description "Avery's personal webpage"
+url                      : https://averyma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zheda-mai/zheda-mai.github.io"
+repository               : "averyma/averyma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -59,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -77,20 +73,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  UA-112017339-1
 
 
 # Site Author
 author:
-  name             : "Zheda Mai"
-  avatar           : "marco.JPG"
-  bio              : "MASc | Machine Learning Engineer"
-  location         : "Toronto, Canada"
+  name             : "Avery Ma 马博杰"
+  avatar           : "bio.jpg"
+  bio              : "PhD student in the Machine Learning Group at the University of Toronto"
+  location         : "Toronto, ON"
   employer         :
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=FT3oT6EAAAAJ&hl=en"
-  email            :
-  researchgate     :
+  googlescholar    : "https://scholar.google.ca/citations?user=z6fDbkUAAAAJ&hl=en"
+  email            : ama@cs.toronto.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -98,17 +92,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RaptorMai"
+  github           : "averyma"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      :
+  instagram        : "averymbj"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/marco-zheda-mai-574a0b85"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          :
@@ -131,23 +124,29 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
+  - _pages/page-archive.md
+  - _pages/tag-archive.md
+  - _pages/year-archive.md
+  - _pages/contact.md
+  - _pages/markdown.md
+  - _posts
+
 keep_files:
   - .git
   - .svn
@@ -175,20 +174,20 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# # Collections
+# collections:
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults
@@ -211,41 +210,41 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
@@ -257,20 +256,20 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Canada/Eastern # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji

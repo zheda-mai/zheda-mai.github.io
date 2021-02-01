@@ -1,3 +1,5 @@
+<!-- AM: added page.title == "" condition, so that when page title is not assigned, it displays home - site name instead -->
+
 {% include base_path %}
 
 <!-- begin SEO -->
@@ -8,6 +10,10 @@
 
 {% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+{% endif %}
+
+{% if page.title == "" %}
+  {% assign seo_title = "Home" | append: " " | append: site.title_separator | append: " " | append: site.title  %}
 {% endif %}
 
 {% if seo_title %}

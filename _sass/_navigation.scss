@@ -176,6 +176,8 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  padding-left: 3em;
+  padding-right: 3em;
 
   a {
     display: block;
@@ -203,6 +205,7 @@
 
   .visible-links {
     display: table;
+    vertical-align: middle;
 
     li {
       display: table-cell;

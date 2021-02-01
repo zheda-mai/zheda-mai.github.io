@@ -1,26 +1,34 @@
 ---
 permalink: /
-title:
-excerpt: "About me"
+title: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+# About me
 
-# About Me
+I am a PhD student in the Machine Learning Group at the University of Toronto and Vector Institute. My supervisors are [Prof. Amir-massoud Farahmand](https://vectorinstitute.ai/team/amir-massoud-farahmand/) and [Prof. Richard Zemel](http://www.cs.toronto.edu/~zemel/inquiry/home.php). 
 
-I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/), where I mostly worked on Continual Learning and Recommender Systems.
+My primary research interests are in the security and adversarial robustness of learning algorithms.
 
-Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
+Prior to coming to UofT, I studied at the University of Waterloo, where I completed my BASc. in Mechatronics Engineering, and MASc. in Systems Design Engineering. During Masters, I worked at the Vision and Image Processing ([VIP](https://uwaterloo.ca/vision-image-processing-lab/)) Lab, supervised by [Prof. Alex Wong](http://www.eng.uwaterloo.ca/~a28wong/index.html) and [Prof. David Clausi](https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi).
 
-I interned at [Pitney Bowes](https://www.pitneybowes.com/us) as a machine learning engineer, where I built a proof-of-concept for map style emulation. During my undergrad, I spent a year at [AMD](https://www.amd.com/en) as a software engineer intern. 
+<!-- During the first year of my MASc., I worked as a research engineer intern with [Christie Digital](https://www.christiedigital.com/en-us), a Canadian projector technology company. There I collaborated with a team of Christie engineers on achieving [projector super-resolution enhancement](https://en.wikipedia.org/wiki/Super-resolution_imaging) - extending the resolution of projectors beyond their hardware capabilities.
 
-# News
+My Master’s thesis focuses on 3D reconstruction technologies. I am building a novel active depth sensing system that infers depth by analyzing the blurriness of the projection pattern at different depth levels caused by camera defocus. Without relying on complex hardware, I developed a computational depth inference model based on parametric estimation approach([Gaussian based](http://openjournals.uwaterloo.ca/index.php/vsl/article/view/96)) and non-parametric estimation ([Deep learning-driven](http://openjournals.uwaterloo.ca/index.php/vsl/article/view/165)). -->
 
-- 
-- June 2020: I **won 1^st^  place** in the **CVPR 2020** [CLVision Challenge](https://sites.google.com/view/clvision2020/challenge/challenge-winners). [[code]](https://github.com/RaptorMai/CVPR20_CLVision_challenge) [[paper]](https://arxiv.org/abs/2007.05683)
+# Recent News 
+May 2020: Joined Huawei Noah's Ark Lab as a research intern
 
-#Contact
+Sep 2018: Started PhD at the University of Toronto/Vector Institute under Amir-massoud and Rich
 
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Jun 2018: The projector super-resolution enhancement technique developed during my intern at Christie Digital was [patented](https://patentimages.storage.googleapis.com/e3/69/58/de9300c78a13a6/US10009587.pdf).
+
+Apr 2018: My Master's research work on 3D reconstruction technologies was featured on [CTV News](https://kitchener.ctvnews.ca/video?clipId=1359802).
+
+<!-- 
+My primary research interests are in machine learning and its application to computer vision. In particular, I am interested in the adversarial robustness of deep neural networks.
+
+I am working on my MASc. with [Prof. Alex Wong](http://www.eng.uwaterloo.ca/~a28wong/index.html) and [Prof. David Clausi](https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi) in the Vision and Image Processing ([VIP](https://uwaterloo.ca/vision-image-processing-lab/)) Lab within [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) at the [University of Waterloo](https://uwaterloo.ca/). In Spring 2016, I completed my BASc. in [Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/) at the University of Waterloo.
+
+During the first year of my MASc., I worked as a research engineer intern with [Christie Digital](https://www.christiedigital.com/en-us), a Canadian projector technology company. There I collaborated with a team of Christie engineers on achieving [projector super-resolution enhancement](https://en.wikipedia.org/wiki/Super-resolution_imaging) - extending the resolution of projectors beyond their hardware capabilities.
+
+My Master’s thesis focuses on 3D reconstruction technologies. I am building a novel active depth sensing system that infers depth by analyzing the blurriness of the projection pattern at different depth levels caused by camera defocus. Without relying on complex hardware, I developed a computational depth inference model based on parametric estimation approach([Gaussian based](http://openjournals.uwaterloo.ca/index.php/vsl/article/view/96)) and non-parametric estimation ([Deep learning-driven](http://openjournals.uwaterloo.ca/index.php/vsl/article/view/165)). -->

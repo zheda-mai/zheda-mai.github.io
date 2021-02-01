@@ -1,11 +1,11 @@
 ---
 layout: compress
 ---
-
+<!-- AM: Footer update: added the height:100% in html style -->
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js" style="height: 100%;">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -17,6 +17,8 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
+
+    </script>
 
     <div class="page__footer">
       <footer>
