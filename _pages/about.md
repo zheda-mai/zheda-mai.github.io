@@ -1,10 +1,8 @@
 ---
 permalink: /
-title:
+title: “About Me"
 author_profile: true
 ---
-
-# About Me
 
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/), where I mostly worked on Continual Learning and Recommender Systems.
 
