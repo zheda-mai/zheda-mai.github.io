@@ -18,12 +18,19 @@ author_profile: true
 
 
 # Talks
-* [A Simple and Effective Approach to Continual Learning for Image Classification](https://github.com/zheda-mai/zheda-mai.github.io/blob/master/files/vector.pdf) 
+* [A Simple and Effective Approach to Continual Learning for Image Classification](/files/vector.pdf) 
 
   Vector Institute, Toronto Canada, 2020
 
-* [Tutorial of Seq2Seq & Attention](https://github.com/zheda-mai/zheda-mai.github.io/blob/master/files/attention.pptx)
+* [Tutorial of Seq2Seq & Attention](/files/attention.pptx)
 
   Data-Driven Decision Making Lab (D3M), University of Toronto, 2020
 
+
+
+# Thesis
+
+[Online Continual Learning In Image Classification](/files/ZhedaMai_Thesis.pdf)
+
+Committee: [Prof. Elias Khalil](https://ekhalil.com/), [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)
 
