@@ -1,10 +1,8 @@
 ---
 permalink: /talks/
-title: "Conference Presentation"
+title: Conference Presentation
 author_profile: true
 ---
-
-
 * [Online Class-Incremental Continual Learning with Adversarial Shapley Value](https://studio.slideslive.com/web_recorder/share/20210109T023929Z__AAAI__9988__online-class-incremental-conti?s=91a296f8-bf46-4355-b46e-d09f907637dd)
 
   Oral presentation at **AAAI 2021**, Vancouver Canada (Virtual due to COVID-19)
