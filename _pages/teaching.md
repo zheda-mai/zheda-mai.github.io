@@ -4,12 +4,10 @@ title: "Teaching Experience"
 author_profile: true
 ---
 
-## As Teaching Assistant
-* CSC  165: Mathematical Expression and Reasoning for Computer Science - Winter 2020
-* SYDE 372: Introduction to Pattern Recognition - Winter 2018
-* SYDE 121: Digital Computation: Introduction to C++ Programming - Fall 2017
-* SYDE 311: Advanced Engineering Math 2: Numerical Methods for ODEs - Spring 2016
+## Teaching Assistant
+* MIE1513/451: Decision Support Systems (**Head TA**) - Fall 2019, Winter/Fall 2020
+* APS1070: Foundations of Data Analytics and Machine Learning - Fall 20119, Winter/Summer/Fall 2020
+* MIE1628: Big Data Science - Summer 2020
 
-## As Guest Lecturer
-* SYDE 121: Digital Computation: Introduction to C++ Programming - Fall 2017
+
 

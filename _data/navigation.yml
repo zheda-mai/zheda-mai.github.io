@@ -7,31 +7,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/
-
   - title: "Industry"
     url: /industry/
-
-  - title: "Scholarships"
-    url: /scholarships/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "Talks"
     url: /talks/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
     
   - title: "CV"
-    url: https://averyma.github.io/files/cv_github.pdf
+    url: https://github.com/zheda-mai/zheda-mai.github.io/blob/master/files/ZhedaMai2020_Dec.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
-  
-  # - title: "Contact"
-  #   url: /contact/
 
 

@@ -84,7 +84,9 @@ analytics:
 author:
   name             : "Zheda Mai"
   avatar           : "marco.JPG"
-  bio              : "MASc | Machine Learning Engineer"
+  bio              : &bio "MASc"
+  bio              : &bio "Machine Learning Engineer"
+  bio              : &bio "University of Toronto"
   location         : "Toronto, Canada"
   employer         :
   pubmed           :

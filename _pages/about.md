@@ -1,11 +1,7 @@
 ---
 permalink: /
-title:
-excerpt: "About me"
+title: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 # About Me
@@ -40,7 +36,7 @@ I interned at [Pitney Bowes](https://www.pitneybowes.com/us) as a machine learni
 
 - <span style="color:#e67300">June 2020 — **CVPR 2020** CLVision Challenge Champion</span>
 
-  I **won 1^st^  place** in the CVPR 2020 [CLVision Challenge](https://sites.google.com/view/clvision2020/challenge/challenge-winners) with my entry [Batch-level Experience Replay with Review for Continual Learning](https://arxiv.org/abs/2007.05683)! Welcome to check our winning solution [[code]](https://github.com/RaptorMai/CVPR20_CLVision_challenge) [[paper]](https://arxiv.org/abs/2007.05683) and the [summary](https://arxiv.org/abs/2009.09929) of the challenge.
+  I **won 1st  place** in the CVPR 2020 [CLVision Challenge](https://sites.google.com/view/clvision2020/challenge/challenge-winners) with my entry [Batch-level Experience Replay with Review for Continual Learning](https://arxiv.org/abs/2007.05683)! Welcome to check our winning solution [[code]](https://github.com/RaptorMai/CVPR20_CLVision_challenge) [[paper]](https://arxiv.org/abs/2007.05683) and the [summary](https://arxiv.org/abs/2009.09929) of the challenge.
 
   
 

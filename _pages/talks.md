@@ -1,24 +1,31 @@
 ---
 permalink: /talks/
-title: "Conference Presentation"
+title:
 author_profile: true
 ---
-* **Avery Ma,** Ahmed Gawish, Mark Lamm, Alexander Wong, Paul Fieguth: Real-time spatial-based projector resolution enhancement. **Oral Presentation** at the Society for Information Display - Display Week 2018. Los Angeles, California.
-* **Avery Ma,** Alexander Wong, David A. Clausi: Deep learning-driven depth from defocus via active multispectral quasi-random projections with complex subpatterns. **Poster Presentation** at the 15th Conference on Computer and Robot Vision. York University, Toronto, Ontario.
-* **Avery Ma,** Alexander Wong, David A. Clausi: Depth from defocus via active multispectral quasi-random point projections using deep learning. **Oral Presentation** at the 3rd Conference on Vision and Imaging Systems. University of Waterloo, Waterloo, Ontario.
-* Xiaodan Hu, **Avery Ma,** Ahmed Gawish, Mark Lamm, Paul Fieguth: Motion detection in high resolution enhancement. **Poster Presentation** at the 3rd Annual Conference on Vision and Imaging Systems. University of Waterloo, Waterloo, Ontario.
-* **Avery Ma,** Alexander Wong, David A. Clausi: Depth from defocus via active quasi-random point projections: a deep learning approach. **Poster Presentation** at the 14th International Conference on Image Analysis and Recognition. Polytechnique Montréal, Montreal, Quebec
-* **Avery Ma,** Alexander Wong: Enhanced depth from defocus via active quasi-random colored point projections. **Oral Presentation** at the 9th International Conference on Inverse Problems in Engineering. University of Waterloo, Waterloo, Ontario.
-* **Avery Ma,** Francis Li, Alexander Wong: Depth from defocus via active quasi-random point projections. **Poster Presentation** at the 2nd Conference on Vision and Imaging Systems. University of Waterloo, Waterloo, Ontario
+#  Conference Presentation
+
+* [Online Class-Incremental Continual Learning with Adversarial Shapley Value](https://studio.slideslive.com/web_recorder/share/20210109T023929Z__AAAI__9988__online-class-incremental-conti?s=91a296f8-bf46-4355-b46e-d09f907637dd)
+
+  Oral presentation at **AAAI 2021**, Vancouver Canada (Virtual due to COVID-19)
+
+* [Batch-level Experience Replay with Review for Continual Learning](https://youtu.be/AbgbzTDZRq8?t=1283)
+
+  Oral presentation at Workshop on Continual Learning in Computer Vision, **CVPR 2020**, Seattle, United States (Virtual due to COVID-19)
+
+* [Attentive Autoencoders for Multifaceted Preference Learning in One-class Collaborative Filtering](https://screencast-o-matic.com/watch/cY6ZhCs1aZ)
+
+  Oral presentation at Workshop on Advanced Neural Algorithms and Theories for Recommender Systems, **ICDM 2020**, Sorrento Italy (Virtual due to COVID-19)
+
+
 
 # Talks
-* University of Waterloo, Vision and Image Processing Lab (Nov, 2017)  
-_"Real-time Spatial-based Resolution Enhancement"_
+* [A Simple and Effective Approach to Continual Learning for Image Classification](https://github.com/zheda-mai/zheda-mai.github.io/blob/master/files/vector.pdf) 
 
-* University of Waterloo, Systems Design Engineering Graduate Seminar (Feb, 2017)  
-_"Depth from Defocus via Active Quasi-random Pattern Projection: A Deep Learning Approach"_
+  Vector Institute, Toronto Canada, 2020
 
-* University of Waterloo, Vision and Image Processing Lab (Oct, 2016)  
-_"Depth from Defocus via Active Quasi-random Pattern Projection"_
+* [Tutorial of Seq2Seq & Attention](https://github.com/zheda-mai/zheda-mai.github.io/blob/master/files/attention.pptx)
+
+  Data-Driven Decision Making Lab (D3M), University of Toronto, 2020
 
 
