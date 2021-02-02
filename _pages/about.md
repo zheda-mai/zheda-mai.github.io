@@ -4,6 +4,8 @@ title:
 author_profile: true
 ---
 
+# About Me
+
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/), where I mostly worked on Continual Learning and Recommender Systems.
 
 Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
