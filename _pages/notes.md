@@ -1,6 +1,6 @@
 ---
 permalink: /notes/
-title: “Learning Notes"
+title: Learning Notes
 author_profile: true
 ---
 
@@ -16,9 +16,9 @@ author_profile: true
 
 
 
-###**CS224W: Machine Learning with Graghs**
+### CS224W: Machine Learning with Graghs
 
-#####Stanford University
+##### Stanford University
 
 - [Personal study notes](https://www.notion.so/zhedamarcomai/8a05f67ec1b942558968b141c3d20119?v=01dbf9f498a84a9dbee9e1a2427f9728)
 - [Course webpage](http://web.stanford.edu/class/cs224w/)
@@ -27,7 +27,7 @@ author_profile: true
 
 ### CS 329S: Machine Learning Systems Design
 
-#####Stanford University
+##### Stanford University
 
 - [Personal study notes](https://www.notion.so/zhedamarcomai/8aecb22ec36a48c98eb812abfe49822a?v=68fed83ca81346d891d7875743e70138)
 - [Course webpage](https://stanford-cs329s.github.io/)
