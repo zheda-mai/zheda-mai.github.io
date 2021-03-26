@@ -14,7 +14,13 @@ I interned at [Pitney Bowes](https://www.pitneybowes.com/us) as a machine learni
 
 # News
 
-- <span style="color:#e67300">Jan 2021 — New Survey Preprint</span>
+- <span style="color:#e67300">March 2021 — New Preprint for Online Continual Learning with Contrastive Learning</span> 
+
+  [Supervised Contrastive Replay: Revisiting the Nearest Class Mean Classifier in Online Class-Incremental Continual Learning](https://arxiv.org/abs/2103.13885) is on arXiv! We leverage supervised contrastive learning and nearest class mean classifier to obtain new state-of-the-art performance for online continual learning. 
+  
+  
+  
+- <span style="color:#e67300">Jan 2021 — New Preprint for Continual Learning Survey </span>
 
   [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/abs/2101.10423) is on arXiv! We empirically scrutinize recently proposed methods and tricks in Online Continual Learning to study their relative advantages and the settings where they work best. 
 
