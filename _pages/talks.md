@@ -3,6 +3,10 @@ permalink: /talks/
 title: Conference Presentation
 author_profile: true
 ---
+* [Supervised Contrastive Replay: Revisiting the Nearest Class Mean Classifier in Online Class-Incremental Continual Learning](https://www.youtube.com/watch?v=030Hzmg-mow&list=LL&index=3)
+
+  Oral presentation at **CVPR 2021** Workshop on Continual Learning
+
 * [Online Class-Incremental Continual Learning with Adversarial Shapley Value](https://studio.slideslive.com/web_recorder/share/20210109T023929Z__AAAI__9988__online-class-incremental-conti?s=91a296f8-bf46-4355-b46e-d09f907637dd)
 
   Oral presentation at **AAAI 2021**, Vancouver Canada (Virtual due to COVID-19)

@@ -8,7 +8,7 @@ I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) a
 
 Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
 
-I interned at [Pitney Bowes](https://www.pitneybowes.com/us) as a machine learning engineer in 2019. During my undergrad, I spent a year at [AMD](https://www.amd.com/en) as a software engineer intern. 
+I am currently a machine learning engineer at [Optimy.ai](Optimy.ai). Before that, I interned at [Pitney Bowes](https://www.pitneybowes.com/us) as a machine learning engineer in 2019. During my bachelor, I spent a year at [AMD](https://www.amd.com/en) as a software engineer intern. 
 
 
 
