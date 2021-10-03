@@ -2,6 +2,7 @@
 permalink: /
 title: About Me
 author_profile: true
+
 ---
 
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I mostly worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).
@@ -14,17 +15,17 @@ I am currently a machine learning engineer at [Optimy.ai](Optimy.ai). Before tha
 
 # News
 
+- <span style="color:#e67300">Oct 2021 — **Neurocomputing** Acceptance</span>
+
+  [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/abs/2101.10423) was accepted to Neurocomputing! We empirically scrutinize recently proposed methods and tricks in Online Continual Learning to study their relative advantages and the settings where they work best. We also discuss recent trends and emerging directions in Online Continual Learning. 
+
+  
+
 - <span style="color:#e67300">April 2021 — **CVPR 2021** Workshop Acceptance</span> 
 
   Our paper [Supervised Contrastive Replay: Revisiting the Nearest Class Mean Classifier in Online Class-Incremental Continual Learning](https://arxiv.org/abs/2103.13885) was accepted to the [Workshop on Continual Learning in Computer Vision](https://sites.google.com/view/clvision2021/) at **CVPR 2021**! We leverage supervised contrastive learning and nearest class mean classifier to obtain new state-of-the-art performance for online continual learning. 
-  
-  
-  
-- <span style="color:#e67300">Jan 2021 — New Preprint for Continual Learning Survey </span>
 
-  [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/abs/2101.10423) is on arXiv! We empirically scrutinize recently proposed methods and tricks in Online Continual Learning to study their relative advantages and the settings where they work best. 
-
-
+  
 
 - <span style="color:#e67300">Dec 2020 — **AAAI 2021** Acceptance</span>
 
