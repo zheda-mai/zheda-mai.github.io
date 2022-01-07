@@ -2,29 +2,34 @@
 permalink: /
 title: About Me
 author_profile: true
-
 ---
 
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I mostly worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).
 
 Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
 
-I am currently a machine learning engineer at [Optimy.ai](Optimy.ai). Before that, I interned at [Pitney Bowes](https://www.pitneybowes.com/us) as a machine learning engineer in 2019. During my bachelor, I spent a year at [AMD](https://www.amd.com/en) as a software engineer intern. 
+I am currently a data scientist at [Optimy.ai](Optimy.ai). Before that, I interned at [Pitney Bowes](https://www.pitneybowes.com/us) as a machine learning engineer in 2019. During my bachelor, I spent a year at [AMD](https://www.amd.com/en) as a software engineer intern. 
 
 
 
 # News
 
-- <span style="color:#e67300">Oct 2021 — **Neurocomputing** Acceptance</span>
+- <span style="color:#e67300">Nov 2021 — **Artificial Intelligence** Journal Acceptance</span>
 
-  [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/abs/2101.10423) was accepted to Neurocomputing! We empirically scrutinize recently proposed methods and tricks in Online Continual Learning to study their relative advantages and the settings where they work best. We also discuss recent trends and emerging directions in Online Continual Learning. 
-
+  [CVPR 2020 continual learning in computer vision competition: Approaches, results, current challenges and future directions](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867?dgcid=author) was accepted to Artificial Intelligence!  In this paper, we report the main results of the CVPR 2020 Continual Learning in Computer Vision competition and summarize the winning approaches, current challenges and future research directions.
   
+  
+  
+- <span style="color:#e67300">Oct 2021 — **Neurocomputing** Journal Acceptance</span>
 
+  [Online Continual Learning in Image Classification: An Empirical Survey](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014995) was accepted to Neurocomputing! We empirically scrutinize recently proposed methods and tricks in Online Continual Learning to study their relative advantages and the settings where they work best. We also discuss recent trends and emerging directions in Online Continual Learning. 
+  
+  
+  
 - <span style="color:#e67300">April 2021 — **CVPR 2021** Workshop Acceptance</span> 
 
   Our paper [Supervised Contrastive Replay: Revisiting the Nearest Class Mean Classifier in Online Class-Incremental Continual Learning](https://arxiv.org/abs/2103.13885) was accepted to the [Workshop on Continual Learning in Computer Vision](https://sites.google.com/view/clvision2021/) at **CVPR 2021**! We leverage supervised contrastive learning and nearest class mean classifier to obtain new state-of-the-art performance for online continual learning. 
-
+  
   
 
 - <span style="color:#e67300">Dec 2020 — **AAAI 2021** Acceptance</span>
