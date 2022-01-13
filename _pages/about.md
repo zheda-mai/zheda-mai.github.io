@@ -14,6 +14,12 @@ I am currently a data scientist at [Optimy.ai](Optimy.ai). Before that, I intern
 
 # News
 
+- <span style="color:#e67300">Jan 2022 — **WWW 2022**  Acceptance</span>
+
+  [Distributional Contrastive Embedding for Clarification-based Conversational Critiquing](https://www2022.thewebconf.org/) was accepted to International World Wide Web Conference (WWW) 2022!  In this paper, we propose a novel clarification-based conversational critiquing framework that allows the system to clarify user preferences by using distributional embeddings that can capture the specificity and generality of concepts through distributional coverage. 
+  
+  
+  
 - <span style="color:#e67300">Nov 2021 — **Artificial Intelligence** Journal Acceptance</span>
 
   [CVPR 2020 continual learning in computer vision competition: Approaches, results, current challenges and future directions](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867?dgcid=author) was accepted to Artificial Intelligence!  In this paper, we report the main results of the CVPR 2020 Continual Learning in Computer Vision competition and summarize the winning approaches, current challenges and future research directions.
