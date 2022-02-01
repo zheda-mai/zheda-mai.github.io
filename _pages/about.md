@@ -16,7 +16,13 @@ I am currently a data scientist at [Optimy.ai](Optimy.ai). Before that, I intern
 
 - <span style="color:#e67300">Jan 2022 — **WWW 2022**  Acceptance</span>
 
-  [Distributional Contrastive Embedding for Clarification-based Conversational Critiquing](https://www2022.thewebconf.org/) was accepted to International World Wide Web Conference (WWW) 2022!  In this paper, we propose a novel clarification-based conversational critiquing framework that allows the system to clarify user preferences by using distributional embeddings that can capture the specificity and generality of concepts through distributional coverage. 
+  [Distributional Contrastive Embedding for Clarification-based Conversational Critiquing](https://www2022.thewebconf.org/) was accepted to International World Wide Web Conference (WWW) 2022! We investigate how unintended bias — i.e., language variations such as name references or indirect indicators of sexual orientation or location that should not affect recommendations — manifests in significantly shifted price and category distributions of restaurant recommendations
+  
+  
+  
+- <span style="color:#e67300">Jan 2022 — Preprint on arXiv</span>
+
+  [Unintended Bias in Language Model-driven Conversational Recommendation](https://arxiv.org/abs/2201.06224) was on arXiv!  In this paper, we propose a novel clarification-based conversational critiquing framework that allows the system to clarify user preferences by using distributional embeddings that can capture the specificity and generality of concepts through distributional coverage. 
   
   
   
@@ -40,7 +46,7 @@ I am currently a data scientist at [Optimy.ai](Optimy.ai). Before that, I intern
 
 - <span style="color:#e67300">Dec 2020 — **AAAI 2021** Acceptance</span>
 
-  Our paper [Online Class-Incremental Continual Learning with Adversarial Shapley Value](http://128.84.4.34/abs/2009.00093) (with [Jihwan Jeong](https://ca.linkedin.com/in/jihwan-jeong-5301ab183/en-us), Dongsub Shim, [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/), [Hyunwoo Kim](https://scholar.google.com/citations?user=5DfOhKwAAAAJ&hl=en) and [Jongseong Jang](https://scholar.google.co.kr/citations?user=-DJPQqgAAAAJ&hl=ko)) was accepted to **AAAI 2021**!
+  Our paper [Online Class-Incremental Continual Learning with Adversarial Shapley Value](http://128.84.4.34/abs/2009.00093) was accepted to **AAAI 2021**! We contribute a novel Adversarial Shapley value scoring method that scores memory data samples according to their ability to preserve latent decision boundaries for previously observed classes (to maintain learning stability and avoid forgetting) while interfering with latent decision boundaries of current classes being learned (to encourage plasticity and optimal learning of new class boundaries). 
 
   
 
