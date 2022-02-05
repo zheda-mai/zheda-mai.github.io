@@ -16,13 +16,13 @@ I am currently a data scientist at [Optimy.ai](Optimy.ai). Before that, I intern
 
 - <span style="color:#e67300">Jan 2022 — **WWW 2022**  Acceptance</span>
 
-  [Distributional Contrastive Embedding for Clarification-based Conversational Critiquing](https://www2022.thewebconf.org/) was accepted to International World Wide Web Conference (WWW) 2022! We investigate how unintended bias — i.e., language variations such as name references or indirect indicators of sexual orientation or location that should not affect recommendations — manifests in significantly shifted price and category distributions of restaurant recommendations
+  [Distributional Contrastive Embedding for Clarification-based Conversational Critiquing](https://www2022.thewebconf.org/) was accepted to International World Wide Web Conference (WWW) 2022! In this paper, we propose a novel clarification-based conversational critiquing framework that allows the system to clarify user preferences by using distributional embeddings that can capture the specificity and generality of concepts through distributional coverage. 
   
   
   
 - <span style="color:#e67300">Jan 2022 — Preprint on arXiv</span>
 
-  [Unintended Bias in Language Model-driven Conversational Recommendation](https://arxiv.org/abs/2201.06224) was on arXiv!  In this paper, we propose a novel clarification-based conversational critiquing framework that allows the system to clarify user preferences by using distributional embeddings that can capture the specificity and generality of concepts through distributional coverage. 
+  [Unintended Bias in Language Model-driven Conversational Recommendation](https://arxiv.org/abs/2201.06224) was on arXiv!  We investigate how unintended bias — i.e., language variations such as name references or indirect indicators of sexual orientation or location that should not affect recommendations — manifests in significantly shifted price and category distributions of restaurant recommendations
   
   
   
