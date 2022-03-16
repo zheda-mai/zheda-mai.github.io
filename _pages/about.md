@@ -14,13 +14,19 @@ I am currently a data scientist at [Optimy.ai](Optimy.ai). Before that, I intern
 
 # News
 
+- <span style="color:#e67300">March 2022 — New Preprint on arXiv</span>
+
+  [TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.07239) was on arXiv!  We propose TransCAM, a Conformer-based solution to WSSS that explicitly leverages the attention weights from the transformer branch of the Conformer to refine the CAM generated from the CNN branch. TransCAM is motivated by our observation that attention weights from shallow transformer blocks are able to capture low-level spatial feature similarities while attention weights from deep transformer blocks capture high-level semantic context.
+  
+  
+  
 - <span style="color:#e67300">Jan 2022 — **WWW 2022**  Acceptance</span>
 
-  [Distributional Contrastive Embedding for Clarification-based Conversational Critiquing](https://www2022.thewebconf.org/) was accepted to International World Wide Web Conference (WWW) 2022! In this paper, we propose a novel clarification-based conversational critiquing framework that allows the system to clarify user preferences by using distributional embeddings that can capture the specificity and generality of concepts through distributional coverage. 
+  [Distributional Contrastive Embedding for Clarification-based Conversational Critiquing](https://ssanner.github.io/papers/www22_dcevae.pdf) was accepted to International World Wide Web Conference (WWW) 2022! In this paper, we propose a novel clarification-based conversational critiquing framework that allows the system to clarify user preferences by using distributional embeddings that can capture the specificity and generality of concepts through distributional coverage. 
   
   
   
-- <span style="color:#e67300">Jan 2022 — Preprint on arXiv</span>
+- <span style="color:#e67300">Jan 2022 — New Preprint on arXiv</span>
 
   [Unintended Bias in Language Model-driven Conversational Recommendation](https://arxiv.org/abs/2201.06224) was on arXiv!  We investigate how unintended bias — i.e., language variations such as name references or indirect indicators of sexual orientation or location that should not affect recommendations — manifests in significantly shifted price and category distributions of restaurant recommendations
   
