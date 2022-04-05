@@ -14,6 +14,12 @@ I am currently a data scientist at [Optimy.ai](Optimy.ai). Before that, I intern
 
 # News
 
+- <span style="color:#e67300">April 2022 — **SIGIR 2022**  Acceptance</span>
+
+  [Mitigating the Filter Bubble while Maintaining Relevance: Targeted Diversification with VAE-based Recommender Systems](https://sigir.org/sigir2022/) was accepted to ACM SIGIR 2022! In this paper, we propose a novel methodology that trains Concept Activation Vectors (CAVs) for targeted topical dimensions (e.g., political polarization). We then modulate the latent embeddings of user preferences in a state-of-the-art VAE-based recommender system to diversify along the targeted dimension while preserving topical relevance across orthogonal dimensions.
+  
+  
+  
 - <span style="color:#e67300">March 2022 — New Preprint on arXiv</span>
 
   [TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.07239) was on arXiv!  We propose TransCAM, a Conformer-based solution to WSSS that explicitly leverages the attention weights from the transformer branch of the Conformer to refine the CAM generated from the CNN branch. TransCAM is motivated by our observation that attention weights from shallow transformer blocks are able to capture low-level spatial feature similarities while attention weights from deep transformer blocks capture high-level semantic context.
