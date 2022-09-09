@@ -10,9 +10,8 @@ locale                   : "en-US"
 title                    : "Zheda Mai's Homepage"
 title_separator          : "-"
 name                     : &name "Zheda Mai"
-description              : &description "MASc"
-description              : &description "Machine Learning Engineer"
-description              : &description "University of Toronto"
+description              : &description "Ph.D. student"
+description              : &description "Ohio State University"
 url                      : https://zheda-mai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zheda-mai/zheda-mai.github.io"
@@ -88,7 +87,7 @@ author:
     MASc <br>
     Machine Learning Engineer <br>
     University of Toronto
-  location         : "Toronto, Canada"
+  location         : "Columbus, Ohio"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=FT3oT6EAAAAJ&hl=en"
