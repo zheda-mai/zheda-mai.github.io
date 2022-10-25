@@ -14,16 +14,22 @@ I worked for [AMD](https://www.amd.com/en), [Pitney Bowes](https://www.pitneybow
 
 
 # News
+- <span style="color:#e67300">Oct 2022 — **IPM** Acceptance</span>
+
+  [Unintended Bias in Language Model-driven Conversational Recommendation](https://arxiv.org/abs/2201.06224) was accepted to Information Processing and Management (IPM)!  We investigate how unintended bias — i.e., language variations such as name references or indirect indicators of sexual orientation or location that should not affect recommendations — manifests in significantly shifted price and category distributions of restaurant recommendations
+
+
+- <span style="color:#e67300">Sept 2022 — **ECCV 2022** Workshop Acceptance</span>
+
+  [TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.07239) was to the [Learning from Limited and Imperfect Data (L2ID) Workshop](https://l2id.github.io/l2id2022/) at ECCV 2022!  We propose TransCAM, a Conformer-based solution to WSSS that explicitly leverages the attention weights from the transformer branch of the Conformer to refine the CAM generated from the CNN branch. TransCAM is motivated by our observation that attention weights from shallow transformer blocks are able to capture low-level spatial feature similarities while attention weights from deep transformer blocks capture high-level semantic context. 
+
 
 - <span style="color:#e67300">April 2022 — **SIGIR 2022**  Acceptance</span>
 
   [Mitigating the Filter Bubble while Maintaining Relevance: Targeted Diversification with VAE-based Recommender Systems](https://sigir.org/sigir2022/) was accepted to ACM SIGIR 2022! In this paper, we propose a novel methodology that trains Concept Activation Vectors (CAVs) for targeted topical dimensions (e.g., political polarization). We then modulate the latent embeddings of user preferences in a state-of-the-art VAE-based recommender system to diversify along the targeted dimension while preserving topical relevance across orthogonal dimensions.
   
   
-  
-- <span style="color:#e67300">March 2022 — New Preprint on arXiv</span>
-
-  [TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.07239) was on arXiv!  We propose TransCAM, a Conformer-based solution to WSSS that explicitly leverages the attention weights from the transformer branch of the Conformer to refine the CAM generated from the CNN branch. TransCAM is motivated by our observation that attention weights from shallow transformer blocks are able to capture low-level spatial feature similarities while attention weights from deep transformer blocks capture high-level semantic context.
+ 
   
   
   
