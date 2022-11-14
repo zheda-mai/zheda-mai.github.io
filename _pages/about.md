@@ -39,10 +39,6 @@ I worked for [AMD](https://www.amd.com/en), [Pitney Bowes](https://www.pitneybow
   
   
   
-- <span style="color:#e67300">Jan 2022 — New Preprint on arXiv</span>
-
-  [Unintended Bias in Language Model-driven Conversational Recommendation](https://arxiv.org/abs/2201.06224) was on arXiv!  We investigate how unintended bias — i.e., language variations such as name references or indirect indicators of sexual orientation or location that should not affect recommendations — manifests in significantly shifted price and category distributions of restaurant recommendations
-  
   
   
 - <span style="color:#e67300">Nov 2021 — **Artificial Intelligence** Journal Acceptance</span>
