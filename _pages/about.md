@@ -9,11 +9,15 @@ I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) a
 
 Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
 
-I worked for [AMD](https://www.amd.com/en), [Pitney Bowes](https://www.pitneybowes.com/us) and [Optimy.ai](Optimy.ai).  
+<!--I worked for [AMD](https://www.amd.com/en), [Pitney Bowes](https://www.pitneybowes.com/us) and [Optimy.ai](Optimy.ai).  -->
 
 <span style="color:red">**I am actively looking for a research internship for summer 2023!**</span>
 
 # News
+- <span style="color:#e67300">Dec 2022 — New preprint about Parameter and Memory efficient ViT Transfer Learning</span>
+
+  [Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning](https://arxiv.org/abs/2212.03220) was on arXiv. We propose visual query tuning (VQT), a simple yet effective approach to aggregate intermediate features of Vision Transformers. 
+
 - <span style="color:#e67300">Oct 2022 — **IPM** Acceptance</span>
 
   [Unintended Bias in Language Model-driven Conversational Recommendation](https://arxiv.org/abs/2201.06224) was accepted to Information Processing and Management (IPM)!  We investigate how unintended bias — i.e., language variations such as name references or indirect indicators of sexual orientation or location that should not affect recommendations — manifests in significantly shifted price and category distributions of restaurant recommendations
