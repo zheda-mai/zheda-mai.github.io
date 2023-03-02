@@ -14,9 +14,9 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 <span style="color:red">**I am actively looking for a research internship for summer 2023!**</span>
 
 # News
-- <span style="color:#e67300">Dec 2022 — New preprint about Parameter and Memory efficient ViT Transfer Learning</span>
+- <span style="color:#e67300">Feb 2023 — **CVPR 2023** Acceptance </span>
 
-  [Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning](https://arxiv.org/abs/2212.03220) was on arXiv. We propose visual query tuning (VQT), a simple yet effective approach to aggregate intermediate features of Vision Transformers. 
+  [Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning](https://arxiv.org/abs/2212.03220) was accepted to CVPR 2023. We propose visual query tuning (VQT), a simple yet effective approach to aggregate intermediate features of Vision Transformers. 
 
 - <span style="color:#e67300">Oct 2022 — **IPM** Acceptance</span>
 
@@ -83,5 +83,5 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 
 # Contact
 
-Email: zheda.mai@mail.utoronto.ca
+Email: mai.145@osu.edu
 
