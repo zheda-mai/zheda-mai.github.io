@@ -11,7 +11,7 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 
 <!--I worked for [AMD](https://www.amd.com/en), [Pitney Bowes](https://www.pitneybowes.com/us) and [Optimy.ai](Optimy.ai).  -->
 
-<!--<span style="color:red">**I am actively looking for a research internship for summer 2023!**</span>-->
+<span style="color:red">**I am actively looking for a research internship!**</span>
 
 # News
 - <span style="color:#e67300">May 2023 — New preprint on arXiv </span>
