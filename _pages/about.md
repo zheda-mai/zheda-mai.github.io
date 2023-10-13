@@ -3,7 +3,7 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a first-year Ph.D. student from the Department of Computer Science and Engineering at the Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interest lies in computer vision and machine learning.  
+I am a second-year Ph.D. student from the Department of Computer Science and Engineering at the Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interest lies in computer vision and machine learning.  
 
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).
 
@@ -14,6 +14,13 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 <span style="color:red">**I am actively looking for a research internship!**</span>
 
 # News
+
+- <span style="color:#e67300">Oct 2023 — **NeurIPS 2023** Acceptance </span>
+
+  [Holistic Transfer: Towards Non-Disruptive Fine-Tuning with Partial Target Data.](https://neurips.cc/) was accepted to NeurIPS 2023. We address a learning problem involving the adaptation of a pre-trained source model, capable of classifying a wide range of objects to a target domain using
+data that covers only a partial label space. 
+
+
 - <span style="color:#e67300">May 2023 — New preprint on arXiv </span>
 
   [Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.05803) We leverage the Segment Anything Model (SAM) to enhanced pseudo labels for Weakly Supervised Semantic Segmentation (WSSS). 
