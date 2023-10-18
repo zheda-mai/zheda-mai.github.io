@@ -3,7 +3,7 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a second-year Ph.D. student from the Department of Computer Science and Engineering at the Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interest lies in computer vision and machine learning.  
+I am a second-year Ph.D. student from the Department of Computer Science and Engineering at the Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in continual learning, transfer learning and learning with limited & imperfect data.  
 
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).
 
