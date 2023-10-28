@@ -21,9 +21,9 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 data that covers only a partial label space. 
 
 
-- <span style="color:#e67300">May 2023 — New preprint on arXiv </span>
+- <span style="color:#e67300">Oct 2023 — **NeurIPS 2023** Workshop Acceptance </span>
 
-  [Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.05803) We leverage the Segment Anything Model (SAM) to enhanced pseudo labels for Weakly Supervised Semantic Segmentation (WSSS). 
+  [Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.05803) was accepted to NeurIPS2023 [I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models](https://sites.google.com/view/icbinb-2023/home) Workshoip. We leverage the Segment Anything Model (SAM) to enhanced pseudo labels for Weakly Supervised Semantic Segmentation (WSSS). 
   
 - <span style="color:#e67300">Feb 2023 — **CVPR 2023** Acceptance </span>
 
