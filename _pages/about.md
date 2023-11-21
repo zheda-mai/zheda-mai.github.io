@@ -15,6 +15,10 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 
 # News
 
+- <span style="color:#e67300">Oct 2023 — **NeurIPS 2023** Outstanding Reviewer </span>
+
+	I am thrilled to be selected as an Outstanding Reviewer for the NeurIPS 2023 conference.
+
 - <span style="color:#e67300">Oct 2023 — **NeurIPS 2023** Acceptance </span>
 
   [Holistic Transfer: Towards Non-Disruptive Fine-Tuning with Partial Target Data.](https://neurips.cc/) was accepted to NeurIPS 2023. We address a learning problem involving the adaptation of a pre-trained source model, capable of classifying a wide range of objects to a target domain using
