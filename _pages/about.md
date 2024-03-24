@@ -14,6 +14,10 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 <span style="color:red">**I am actively looking for a research internship!**</span>
 
 # News
+- <span style="color:#e67300">May 2024 — Research intern at **Bosch** </span>
+
+	I will join Bosch as a research intern working on time series + vision with foundation models. 
+
 
 - <span style="color:#e67300">Oct 2023 — **NeurIPS 2023** Outstanding Reviewer </span>
 

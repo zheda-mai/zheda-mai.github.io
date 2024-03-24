@@ -4,15 +4,17 @@ title: "Industry Experience"
 author_profile: true
 ---
 
-* **Machine Learning Engineer**, Full-time, _[Optimy.ai](https://www.optimy.ai/)_, Toronto, March 2021 - now
+* **Research Intern**, Intern, _[Bosch](https://www.bosch-ai.com/)_, Sunnyvale, May 2024 - Aug 2024
+ * Research areas: time series + vision foundation models
 
-  - Develop real-time data pipelines and machine learning features
 
+* **Data Scientist**, Full-time, _[Optimy.ai](https://www.optimy.ai/)_, Toronto, March 2021 - Aug 2022
+ * Developed machine learning models for customer engagement prediction, high-valued customer identification, and purchase likelihood prediction.
   
 
 * **Machine Learning Engineer**, Intern, _[Pitney Bowes](https://www.pitneybowes.com/ca/en)_, Toronto, May 2019  - Oct 2019  
   
-  * Developed a proof-of-concept for map style emulation
+  * Developed a proof-of-concept for map style emulation.
   
   
   
