@@ -1,8 +1,9 @@
 ---
 permalink: /talks/
-title: Conference Presentation
 author_profile: true
 ---
+# Conference Presentation
+
 * [Supervised Contrastive Replay: Revisiting the Nearest Class Mean Classifier in Online Class-Incremental Continual Learning](https://www.youtube.com/watch?v=030Hzmg-mow&list=LL&index=3)
 
   Oral presentation at **CVPR 2021** Workshop on Continual Learning
@@ -19,6 +20,39 @@ author_profile: true
 
   Oral presentation at Workshop on Advanced Neural Algorithms and Theories for Recommender Systems, **ICDM 2020**, Sorrento Italy (Virtual due to COVID-19)
 
+
+# Reading group paper presentation
+* [Robustness in deep learning](/files/Robustness_in_Deep_Learning.pptx):
+	* Adversarial robustness
+	* Explicit Inductive Bias for Transfer Learning with Convolutional Networks, ICML 2018
+	* Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution, ICML 2022
+	* Robust fine-tuning of zero-shot models, CVPR2022
+	* Finetune like you pretrain: Improved finetuning of zero-shot vision models, CVPR2023
+	* Spurious Features Everywhere -- Large-Scale Detection of Harmful Spurious Features in ImageNet, ICCV2023
+	* Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning, ICML 2023
+	* Zero-Shot Robustification of Zero-Shot Models, ICLR2024
+	* Contrastive Adapters for Foundation Model Group Robustness, NeurIPS2022
+	* Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations, ICML2023
+
+* [Recent Meta papers](/files/Meta_papers.pptx):
+	* Scalable Diffusion Models with Transformers, ICCV23 
+	* Deconstructing Denoising Diffusion Models for Self-Supervised Learning.
+	* A Decade’s Battle on Dataset Bias: Are We There Yet? 
+* [A Decade’s Battle on Dataset Bias: Are We There Yet?](files/Mixture-of-Experts.pptx)
+    * Outrageously large neural networks: The sparsely-gated mixture-of-experts layer, ICLR2017
+    * Scaling Vision with Sparse Mixture of Experts, NeurIPS2021  
+    * Learning to Route by Task for Efficient Inference, EMNLP2021
+    * Mixture-of-Experts with Expert Choice Routing, NeurIPS2022
+    * Multimodal Contrastive Learning with LIMoE: the Language Image Mixture of Experts, NeurIPS2022
+    * Towards Understanding the Mixture-of-Experts Layer in Deep Learning, NeurIPS2022
+    * Sparse Mixture-of-Experts are Domain Generalizable Learners, ICLR2023
+    * M³ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design, NeurIPS2022
+    * Task-customized Masked Autoencoder via Mixture of Cluster-conditional Experts, ICLR2023
+    * The Power of External Memory in Increasing Predictive Model Capacity
+    * Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints, ICLR2023
+
+* [Frustratingly Easy Transferability Estimation](files/Transferability.pptx)
+    * Frustratingly Easy Transferability Estimation, ICML2022
 
 
 # Talks

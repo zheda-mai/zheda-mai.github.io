@@ -4,7 +4,10 @@ title: Learning Notes
 author_profile: true
 ---
 
+### Learning notes for TIMM
+https://github.com/huggingface/pytorch-image-models
 
+https://zhedamarcomai.notion.site/timm-Vision-Transformer-Note-bf9cbddfdb8240bfa401527342cc7ae7?pvs=74
 
 ### EECS 498-007 / 598-005: Deep Learning for Computer Vision 
 
