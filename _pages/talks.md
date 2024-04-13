@@ -38,7 +38,7 @@ author_profile: true
 	* Scalable Diffusion Models with Transformers, ICCV23 
 	* Deconstructing Denoising Diffusion Models for Self-Supervised Learning.
 	* A Decade’s Battle on Dataset Bias: Are We There Yet? 
-* [A Decade’s Battle on Dataset Bias: Are We There Yet?](files/Mixture-of-Experts.pptx)
+* [Mixture of Experts](/files/Mixture-of-Experts.pptx)
     * Outrageously large neural networks: The sparsely-gated mixture-of-experts layer, ICLR2017
     * Scaling Vision with Sparse Mixture of Experts, NeurIPS2021  
     * Learning to Route by Task for Efficient Inference, EMNLP2021
@@ -51,7 +51,7 @@ author_profile: true
     * The Power of External Memory in Increasing Predictive Model Capacity
     * Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints, ICLR2023
 
-* [Frustratingly Easy Transferability Estimation](files/Transferability.pptx)
+* [Frustratingly Easy Transferability Estimation](/files/Transferability.pptx)
     * Frustratingly Easy Transferability Estimation, ICML2022
 
 
