@@ -2,9 +2,11 @@
 permalink: /talks/
 author_profile: true
 ---
+
+# Conference Presentation
 * [Visual query tuning: Towards effective usage of intermediate representations for parameter and memory efficient transfer learning. ](https://www.youtube.com/watch?v=mjEd3YLcrKM)
 
- Presentation at **CVPR 2023**, Vancouver Canada
+	Presentation at **CVPR 2023**, Vancouver Canada
 
 * [Supervised Contrastive Replay: Revisiting the Nearest Class Mean Classifier in Online Class-Incremental Continual Learning](https://www.youtube.com/watch?v=030Hzmg-mow&list=LL&index=3)
 
