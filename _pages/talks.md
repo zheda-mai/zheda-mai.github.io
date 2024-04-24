@@ -3,6 +3,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+
+
+
+
 # Conference Presentation
 * [Visual query tuning: Towards effective usage of intermediate representations for parameter and memory efficient transfer learning. ](https://www.youtube.com/watch?v=mjEd3YLcrKM)
 
