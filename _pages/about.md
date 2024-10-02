@@ -18,11 +18,11 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 	
   [Fine-Tuning is Fine, if Calibrated. ](https://arxiv.org/abs/2409.16223) was accepted to **NeurIPS** 2024. Fine-tuning a pre-trained classifier capable of recognizing a large number of classes to master a subset of classes at hand is shown to drastically degrade the performance in the other classes it had previously learned. We proposed simple post-processing calibration to bring back the pre-trained model’s capability. 
   
- [COMPBENCH: A Comparative Reasoning Benchmark for Multimodal LLMs. ](https://arxiv.org/pdf/2407.16837) was accepted to **NeurIPS** 2024. We introduce COMPBENCH, a benchmark designed to evaluate the comparative reasoning capability of multimodal large language models(MLLMs). COMPBENCH contains 40K image pairs with visually oriented questions covering eight dimensions of relative comparison: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality.
+  [COMPBENCH: A Comparative Reasoning Benchmark for Multimodal LLMs. ](https://arxiv.org/pdf/2407.16837) was accepted to **NeurIPS** 2024. We introduce COMPBENCH, a benchmark designed to evaluate the comparative reasoning capability of multimodal large language models(MLLMs). COMPBENCH contains 40K image pairs with visually oriented questions covering eight dimensions of relative comparison: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality.
  
 - <span style="color:#e67300">Sept 2024 — One preprint on Arxiv </span>. 
 	
- [Lessons Learned from a Unifying Empirical Study of
+  [Lessons Learned from a Unifying Empirical Study of
 Parameter-Efficient Transfer Learning (PETL) in
 Visual Recognition. ](https://arxiv.org/pdf/2409.16434) Instead of chasing the leaderboard, we offer a complementary perspective of PETL by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on when and how to use different PETL methods in various scenarios, including low-shots, many-shots, varying domain gaps, and robustness to distribution shifts; (3) insightful directions for future research.
 
