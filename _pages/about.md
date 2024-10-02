@@ -3,17 +3,30 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a second-year Ph.D. student from the Department of Computer Science and Engineering at the Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in continual learning, transfer learning and learning with limited & imperfect data.  
+I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in **Parameter Efficient Transfer Learning**, **Multimodal LLM**, **Continual Learning**, **Learning with Imperfect Data**. 
+
 
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).
 
 Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
 
-<!--I worked for [AMD](https://www.amd.com/en), [Pitney Bowes](https://www.pitneybowes.com/us) and [Optimy.ai](Optimy.ai).  -->
 
 <span style="color:red">**I am actively looking for a research internship!**</span>
 
 # News
+- <span style="color:#e67300">Sept 2024 — Two **NeurIPS 2024** Acceptances </span>. 
+	
+  [Fine-Tuning is Fine, if Calibrated. ](https://arxiv.org/abs/2409.16223) was accepted to **NeurIPS** 2024. Fine-tuning a pre-trained classifier capable of recognizing a large number of classes to master a subset of classes at hand is shown to drastically degrade the performance in the other classes it had previously learned. We proposed simple post-processing calibration to bring back the pre-trained model’s capability. 
+  
+ [COMPBENCH: A Comparative Reasoning Benchmark for Multimodal LLMs. ](https://arxiv.org/pdf/2407.16837) was accepted to **NeurIPS** 2024. We introduce COMPBENCH, a benchmark designed to evaluate the comparative reasoning capability of multimodal large language models(MLLMs). COMPBENCH contains 40K image pairs with visually oriented questions covering eight dimensions of relative comparison: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality.
+ 
+- <span style="color:#e67300">Sept 2024 — One preprint on Arxiv </span>. 
+	
+ [Lessons Learned from a Unifying Empirical Study of
+Parameter-Efficient Transfer Learning (PETL) in
+Visual Recognition. ](https://arxiv.org/pdf/2409.16434) Instead of chasing the leaderboard, we offer a complementary perspective of PETL by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on when and how to use different PETL methods in various scenarios, including low-shots, many-shots, varying domain gaps, and robustness to distribution shifts; (3) insightful directions for future research.
+
+
 - <span style="color:#e67300">May 2024 — Research intern at **Bosch** </span>
 
 	I will join Bosch as a research intern working on time series + vision with foundation models. 
@@ -25,7 +38,7 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 
 - <span style="color:#e67300">Oct 2023 — **NeurIPS 2023** Acceptance </span>
 
-  [Holistic Transfer: Towards Non-Disruptive Fine-Tuning with Partial Target Data.](https://neurips.cc/) was accepted to NeurIPS 2023. We address a learning problem involving the adaptation of a pre-trained source model, capable of classifying a wide range of objects to a target domain using
+  [Holistic Transfer: Towards Non-Disruptive Fine-Tuning with Partial Target Data.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html) was accepted to NeurIPS 2023. We address a learning problem involving the adaptation of a pre-trained source model, capable of classifying a wide range of objects to a target domain using
 data that covers only a partial label space. 
 
 
