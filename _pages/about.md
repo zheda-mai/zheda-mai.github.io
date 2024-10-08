@@ -3,7 +3,7 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in **Parameter Efficient Transfer Learning**, **Multimodal LLM**, **Continual Learning**, **Learning with Imperfect Data**. 
+I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in **Efficient Foundation Model Adaptation**, **Multimodal LLM**, **Continual Learning**, **Learning with Imperfect Data**. 
 
 
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).
