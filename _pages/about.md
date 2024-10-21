@@ -3,7 +3,7 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in **Efficient Foundation Model Adaptation**, **Multimodal LLM**, **Continual Learning**, **Learning with Imperfect Data**. 
+I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in My research interests lie in **Efficient Foundation Model Adaptation** (CVPR23, NeurIPS23, NeurIPS24), **Multimodal LLM** (NeurIPS24), **Continual Learning** (AAAI-21, CVPR21-W, Neurocomputing, 1st place of CVPR20-Competition, AIJ), **Learning with Imperfect Data** (NeurIPS23-W). 
 
 
 I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).
@@ -11,7 +11,7 @@ I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) a
 Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
 
 
-<span style="color:red">**I am actively looking for a research internship!**</span>
+<span style="color:red">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
 - <span style="color:#e67300">Sept 2024 — Two **NeurIPS 2024** Acceptances </span>. 
