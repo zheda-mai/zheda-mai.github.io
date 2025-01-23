@@ -14,6 +14,14 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 <span style="color:red">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
+- <span style="color:#e67300">Jan 2025 — **NAACL 2025** Acceptance </span>.
+
+	[Attention Entropy-Guided Dynamic Cache Allocation for Efficient Multimodal Long-Context Inference](https://2025.naacl.org/) was accepted to **NAACL 2025**. We present a novel approach specifically designed for the complexities of multimodal settings, dynamically allocating KV cache sizes based on attention entropy to better adapt to multimodal interactions.
+	
+- <span style="color:#e67300">Dec 2024 — **ICASSP 2025** Acceptance </span>.
+
+	[Attention-Driven Causal Discovery: From Transformer Matrices to Granger Causal Graphs for Non-Stationary Time-series Data](https://2025.ieeeicassp.org/) was accepted to **ICASSP 2025**. We present a novel two-stage approach for causal discovery in non-stationary multivariate time series data.
+
 - <span style="color:#e67300">Sept 2024 — Two **NeurIPS 2024** Acceptances </span>. 
 	
   [Fine-Tuning is Fine, if Calibrated. ](https://arxiv.org/abs/2409.16223) was accepted to **NeurIPS** 2024. Fine-tuning a pre-trained classifier capable of recognizing a large number of classes to master a subset of classes at hand is shown to drastically degrade the performance in the other classes it had previously learned. We proposed simple post-processing calibration to bring back the pre-trained model’s capability. 
