@@ -3,36 +3,51 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in **Efficient Foundation Model Adaptation** (CVPR23, NeurIPS23, NeurIPS24), **Multimodal LLM** (NeurIPS24), **Continual Learning** (AAAI-21, CVPR21-W, Neurocomputing, 1st place of CVPR20-Competition, AIJ), **Learning with Imperfect Data** (NeurIPS23-W). 
+I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto.
 
 
-I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).
+My research interests lie in 
 
-Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
+- **Efficient & Robust Foundation Model Adaptation**
+	* CVPR25, NeurIPS24, CVPR23, NeurIPS23, ICASSP25
+- **Multimodal Model** 
+	- NAACL25, NeurIPS24
+- **Continual Learning** 
+	- AAAI21, CVPR21, Neurocomputing, 1st in CVPR20-Challenge, AIJ
+- **Interpretable AI** 
+	- CVPR25 x 2 
+
+
 
 
 <span style="color:red">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
-- <span style="color:#e67300">Jan 2025 — **NAACL 2025** Acceptance </span>.
+- <span style="color:#e67300">Feb 2025 — **Three CVPR 2025** Acceptance</span>
+		
+	[Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://arxiv.org/pdf/2409.16434) was accepted to **CVPR** 2025. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on when and how to use different PETL methods in various scenarios, including low-shots, many-shots, varying domain gaps, and robustness to distribution shifts; (3) insightful directions for future research.
+
+	[Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis. ](https://arxiv.org/pdf/2501.09333) was accepted to **CVPR** 2025. We present PROMPT-CAM, an easily implementable, trainable, and reproducible interpretable method that
+leverages the representations of pre-trained ViTs to identify and localize traits for fine-grained analysis.
+
+	[Finer-CAM: Spotting the Difference Reveals Finer Details for Visual Explanation. ](https://arxiv.org/pdf/2501.11309) was accepted to **CVPR** 2025. We propose
+Finer-CAM, a method that explicitly compares the target
+class with similar classes to reveal the most discriminative
+feature channels.
+- <span style="color:#e67300">Jan 2025 — **NAACL 2025** Acceptance</span>
 
 	[Attention Entropy-Guided Dynamic Cache Allocation for Efficient Multimodal Long-Context Inference](https://2025.naacl.org/) was accepted to **NAACL 2025**. We present a novel approach specifically designed for the complexities of multimodal settings, dynamically allocating KV cache sizes based on attention entropy to better adapt to multimodal interactions.
 	
-- <span style="color:#e67300">Dec 2024 — **ICASSP 2025** Acceptance </span>.
+- <span style="color:#e67300">Dec 2024 — **ICASSP 2025** Acceptance</span>
 
 	[Attention-Driven Causal Discovery: From Transformer Matrices to Granger Causal Graphs for Non-Stationary Time-series Data](https://2025.ieeeicassp.org/) was accepted to **ICASSP 2025**. We present a novel two-stage approach for causal discovery in non-stationary multivariate time series data.
 
-- <span style="color:#e67300">Sept 2024 — Two **NeurIPS 2024** Acceptances </span>. 
+- <span style="color:#e67300">Sept 2024 — Two **NeurIPS 2024** Acceptances</span> 
 	
   [Fine-Tuning is Fine, if Calibrated. ](https://arxiv.org/abs/2409.16223) was accepted to **NeurIPS** 2024. Fine-tuning a pre-trained classifier capable of recognizing a large number of classes to master a subset of classes at hand is shown to drastically degrade the performance in the other classes it had previously learned. We proposed simple post-processing calibration to bring back the pre-trained model’s capability. 
   
-  [COMPBENCH: A Comparative Reasoning Benchmark for Multimodal LLMs. ](https://arxiv.org/pdf/2407.16837) was accepted to **NeurIPS** 2024. We introduce COMPBENCH, a benchmark designed to evaluate the comparative reasoning capability of multimodal large language models(MLLMs). COMPBENCH contains 40K image pairs with visually oriented questions covering eight dimensions of relative comparison: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality.
- 
-- <span style="color:#e67300">Sept 2024 — One preprint on Arxiv </span>. 
-	
-  [Lessons Learned from a Unifying Empirical Study of
-Parameter-Efficient Transfer Learning (PETL) in
-Visual Recognition. ](https://arxiv.org/pdf/2409.16434) Instead of chasing the leaderboard, we offer a complementary perspective of PETL by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on when and how to use different PETL methods in various scenarios, including low-shots, many-shots, varying domain gaps, and robustness to distribution shifts; (3) insightful directions for future research.
+  [MLLM-COMPBENCH: A Comparative Reasoning Benchmark for Multimodal LLMs. ](https://arxiv.org/pdf/2407.16837) was accepted to **NeurIPS** 2024. We introduce COMPBENCH, a benchmark designed to evaluate the comparative reasoning capability of multimodal large language models(MLLMs). COMPBENCH contains 40K image pairs with visually oriented questions covering eight dimensions of relative comparison: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality.
+
 
 
 - <span style="color:#e67300">May 2024 — Research intern at **Bosch** </span>
