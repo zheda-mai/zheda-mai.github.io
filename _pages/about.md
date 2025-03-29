@@ -8,14 +8,12 @@ I am a third-year Ph.D. student from the Department of Computer Science and Engi
 
 My research interests lie in 
 
-- **Efficient & Robust Foundation Model Adaptation**
-	* CVPR25, NeurIPS24, CVPR23, NeurIPS23, ICASSP25
+- **Efficient, Robust and Interpretable Foundation Model Adaptation**
+	* CVPR'25 x 3, NeurIPS'24, CVPR'23, NeurIPS'23
 - **Multimodal Model** 
-	- NAACL25, NeurIPS24
+	- NAACL'25, NeurIPS'24
 - **Continual Learning** 
-	- AAAI21, CVPR21, Neurocomputing, 1st in CVPR20-Challenge, AIJ
-- **Interpretable AI** 
-	- CVPR25 x 2 
+	- AAAI'21, CVPR'21, Neurocomputing, CVPR'20-Challenge(1st place), AIJ
 
 
 
@@ -25,7 +23,7 @@ My research interests lie in
 # News
 - <span style="color:#e67300">Feb 2025 — **Three CVPR 2025** Acceptance</span>
 		
-	[Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://arxiv.org/pdf/2409.16434) was accepted to **CVPR** 2025. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on when and how to use different PETL methods in various scenarios, including low-shots, many-shots, varying domain gaps, and robustness to distribution shifts; (3) insightful directions for future research.
+	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was accepted to **CVPR** 2025. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
 
 	[Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis. ](https://arxiv.org/pdf/2501.09333) was accepted to **CVPR** 2025. We present PROMPT-CAM, an easily implementable, trainable, and reproducible interpretable method that
 leverages the representations of pre-trained ViTs to identify and localize traits for fine-grained analysis.
@@ -72,6 +70,10 @@ data that covers only a partial label space.
 - <span style="color:#e67300">Feb 2023 — **CVPR 2023** Acceptance </span>
 
   [Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning](https://arxiv.org/abs/2212.03220) was accepted to CVPR 2023. We propose visual query tuning (VQT), a simple yet effective approach to aggregate intermediate features of Vision Transformers. 
+
+<h1>Previous News</h1>
+
+<details> <summary> Click here to see old news </summary>
 
 - <span style="color:#e67300">Oct 2022 — **IPM** Acceptance</span>
 
@@ -135,7 +137,7 @@ data that covers only a partial label space.
   I **won 1st  place** in the **CVPR 2020** [CLVision Challenge](https://sites.google.com/view/clvision2020/challenge/challenge-winners) with my entry [Batch-level Experience Replay with Review for Continual Learning](https://arxiv.org/abs/2007.05683)! Welcome to check our winning solution [[code]](https://github.com/RaptorMai/CVPR20_CLVision_challenge) [[paper]](https://arxiv.org/abs/2007.05683) and the [summary](https://arxiv.org/abs/2009.09929) of the challenge.
 
   
-
+</details>
 # Contact
 
 Email: mai.145@osu.edu
