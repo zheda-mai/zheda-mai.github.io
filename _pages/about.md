@@ -73,7 +73,10 @@ data that covers only a partial label space.
 
 <h1>Previous News</h1>
 
-<details> <summary> Click here to see old news </summary>
+<details> 
+<summary> Click here to see old news </summary>
+
+<div markdown="1">
 
 * <span style="color:#e67300">Oct 2022 — **IPM** Acceptance</span>
 
@@ -128,7 +131,7 @@ data that covers only a partial label space.
 
 * <span style="color:#e67300">Nov 2020 — **ICDM 2020** Workshop Acceptance</span>
 
-  Our paper [Attentive Autoencoders for Multifaceted Preference Learning in One-class Collaborative Filtering](https://arxiv.org/abs/2010.12803) (with [Ga Wu](https://wuga214.github.io/), [Kai Luo](https://scholar.google.com/citations?user=lO1PU44AAAAJ&hl=en), [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)) was aceepted to the [Workshop on Advanced Neural Algorithms and Theories for Recommender Systems (NeuRec)](https://datasj.github.io/) at **ICDM 2020**!
+  Our paper [Attentive Autoencoders for Multifaceted Preference Learning in One-class Collaborative Filtering](https://arxiv.org/abs/2010.12803) (with [Ga Wu](https://wuga214.github.io/), [Kai Luo](https://scholar.google.com/citations?user=lO1PU44AAAAJ&hl=en), [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)) was accepted to the [Workshop on Advanced Neural Algorithms and Theories for Recommender Systems (NeuRec)](https://datasj.github.io/) at **ICDM 2020**!
 
   
 
@@ -136,8 +139,10 @@ data that covers only a partial label space.
 
   I **won 1st  place** in the **CVPR 2020** [CLVision Challenge](https://sites.google.com/view/clvision2020/challenge/challenge-winners) with my entry [Batch-level Experience Replay with Review for Continual Learning](https://arxiv.org/abs/2007.05683)! Welcome to check our winning solution [[code]](https://github.com/RaptorMai/CVPR20_CLVision_challenge) [[paper]](https://arxiv.org/abs/2007.05683) and the [summary](https://arxiv.org/abs/2009.09929) of the challenge.
 
-  
+</div>
 </details>
+
+
 # Contact
 
 Email: mai.145@osu.edu
