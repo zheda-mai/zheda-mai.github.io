@@ -21,6 +21,10 @@ My research interests lie in
 <span style="color:red">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
+- <span style="color:#e67300">April 2025 — **CVPR 2025** Workshop Acceptance</span>
+
+	[Mitigating Video Content Misalignment on Large Vision Model with Time-Series Data Alignment]() was accepted to **CVPR** 2025 [Efficient Large Vision Models Workshop](https://sites.google.com/view/elvm/home).  
+
 - <span style="color:#e67300">Feb 2025 — **Three CVPR 2025** Acceptance</span>
 		
 	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was accepted to **CVPR** 2025. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
