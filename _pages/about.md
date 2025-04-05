@@ -18,7 +18,7 @@ My research interests lie in
 
 
 
-<span style="color:red">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
+<span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
 - <span style="color:#e67300">April 2025 — **CVPR 2025** Workshop Acceptance</span>
@@ -27,7 +27,7 @@ My research interests lie in
 
 - <span style="color:#e67300">Feb 2025 — **Three CVPR 2025** Acceptance</span>
 		
-	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was accepted to **CVPR** 2025. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
+	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was accepted to **CVPR** 2025 as <span style="color:red">**Highlight (Top 13.5% of acceptance)**</span>. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
 
 	[Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis. ](https://arxiv.org/pdf/2501.09333) was accepted to **CVPR** 2025. We present PROMPT-CAM, an easily implementable, trainable, and reproducible interpretable method that
 leverages the representations of pre-trained ViTs to identify and localize traits for fine-grained analysis.
