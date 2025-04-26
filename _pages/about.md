@@ -21,11 +21,12 @@ My research interests lie in
 <span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
-- <span style="color:#e67300">April 2025 — **CVPR 2025** Workshop Acceptance</span>
+- <span style="color:#e67300">May 2024 — Research intern at **Amazon Lab126** </span>
 
-	[Mitigating Video Content Misalignment on Large Vision Model with Time-Series Data Alignment]() was accepted to **CVPR** 2025 [Efficient Large Vision Models Workshop](https://sites.google.com/view/elvm/home).  
+	I will join Amazon Lab126 as a research intern working on multimodal models. 
 
-- <span style="color:#e67300">Feb 2025 — **Three CVPR 2025** Acceptance</span>
+
+- <span style="color:#e67300">Feb 2025 — **Three CVPR 2025 Main Conference & One Workshop** Acceptance</span>
 		
 	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was accepted to **CVPR** 2025 as <span style="color:red">**Highlight (Top 13.5% of acceptance)**</span>. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
 
@@ -36,6 +37,10 @@ leverages the representations of pre-trained ViTs to identify and localize trait
 Finer-CAM, a method that explicitly compares the target
 class with similar classes to reveal the most discriminative
 feature channels.
+
+
+	[Mitigating Video Content Misalignment on Large Vision Model with Time-Series Data Alignment]() was accepted to **CVPR** 2025 [Efficient Large Vision Models Workshop](https://sites.google.com/view/elvm/home).  
+	
 - <span style="color:#e67300">Jan 2025 — **NAACL 2025** Acceptance</span>
 
 	[Attention Entropy-Guided Dynamic Cache Allocation for Efficient Multimodal Long-Context Inference](https://2025.naacl.org/) was accepted to **NAACL 2025**. We present a novel approach specifically designed for the complexities of multimodal settings, dynamically allocating KV cache sizes based on attention entropy to better adapt to multimodal interactions.
@@ -54,7 +59,7 @@ feature channels.
 
 - <span style="color:#e67300">May 2024 — Research intern at **Bosch** </span>
 
-	I will join Bosch as a research intern working on time series + vision with foundation models. 
+	I will join Bosch as a research intern working on time series + vision + language with foundation models. 
 
 
 - <span style="color:#e67300">Oct 2023 — **NeurIPS 2023** Outstanding Reviewer </span>
