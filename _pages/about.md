@@ -21,7 +21,7 @@ My research interests lie in
 <span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
-- <span style="color:#e67300">May 2024 — Research intern at **Amazon Lab126** </span>
+- <span style="color:#e67300">May 2025 — Research intern at **Amazon Lab126** </span>
 
 	I will join Amazon Lab126 as a research intern working on multimodal models. 
 
