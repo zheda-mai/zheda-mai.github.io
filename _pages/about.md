@@ -11,7 +11,7 @@ My research interests lie in
 - **Efficient, Robust and Interpretable Foundation Model Adaptation**
 	* CVPR'25 x 3, NeurIPS'24, CVPR'23, NeurIPS'23
 - **Multimodal Model** 
-	- NAACL'25, NeurIPS'24
+	- NAACL'25, CVPR'25, NeurIPS'24
 - **Continual Learning** 
 	- AAAI'21, CVPR'21, Neurocomputing, CVPR'20-Challenge(1st place), AIJ
 
@@ -28,7 +28,7 @@ My research interests lie in
 
 - <span style="color:#e67300">Feb 2025 — **Three CVPR 2025 Main Conference & One Workshop** Acceptance</span>
 		
-	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was accepted to **CVPR** 2025 as <span style="color:red">**Highlight (Top 13.5% of acceptance)**</span>. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
+	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was accepted to **CVPR** 2025 as <span style="color:red">**Highlight (2.98%)**</span>. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
 
 	[Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis. ](https://arxiv.org/pdf/2501.09333) was accepted to **CVPR** 2025. We present PROMPT-CAM, an easily implementable, trainable, and reproducible interpretable method that
 leverages the representations of pre-trained ViTs to identify and localize traits for fine-grained analysis.
