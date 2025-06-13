@@ -21,6 +21,10 @@ My research interests lie in
 <span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
+- <span style="color:#e67300">June 2025 — New preprint about **Atomic Visual Ability** in **Vision Foundation Models**</span>
+
+	[AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](https://arxiv.org/abs/2506.09082). We introduce AVA-BENCH, the first benchmark that explicitly disentangles 14 Atomic Visual Abilities (AVAs)—foundational skills like localization, depth estimation, and spatial understanding that collectively support complex visual reasoning tasks. By decoupling AVAs and matching training and test distributions within each, AVA-BENCH pinpoints exactly where a VFM excels or falters.
+
 - <span style="color:#e67300">May 2025 — Research intern at **Amazon Lab126** </span>
 
 	I will join Amazon Lab126 as a research intern working on multimodal models. 
