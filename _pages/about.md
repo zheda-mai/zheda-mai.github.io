@@ -3,7 +3,7 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/).I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto.
+I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/). I completed BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto.
 
 
 My research interests lie in 
@@ -23,7 +23,7 @@ My research interests lie in
 # News
 - <span style="color:#e67300">June 2025 — New preprint about **Atomic Visual Ability** in **Vision Foundation Models**</span>
 
-	[AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](https://arxiv.org/abs/2506.09082). We introduce AVA-BENCH, the first benchmark that explicitly disentangles 14 Atomic Visual Abilities (AVAs)—foundational skills like localization, depth estimation, and spatial understanding that collectively support complex visual reasoning tasks. By decoupling AVAs and matching training and test distributions within each, AVA-BENCH pinpoints exactly where a VFM excels or falters.
+	[AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](https://arxiv.org/abs/2506.09082). We introduce AVA-BENCH, the first benchmark that explicitly disentangles 14 Atomic Visual Abilities (AVAs)—foundational skills like localization, depth estimation, and spatial understanding that collectively support complex visual reasoning tasks. By decoupling AVAs and matching train/test distributions within each, AVA-BENCH pinpoints exactly where a VFM excels or falters.
 
 - <span style="color:#e67300">May 2025 — Research intern at **Amazon Lab126** </span>
 
