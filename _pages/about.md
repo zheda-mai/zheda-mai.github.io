@@ -3,20 +3,17 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a third-year Ph.D. student from the Department of Computer Science and Engineering at The Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/). I worked on Continual Learning and Recommender Systems during my master collaborating with [LG AI Research](https://www.lgresearch.ai/). I completed BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto.
+I am a third-year CS Ph.D. student at <ins>The Ohio State University</ins> (Advisor:  [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao)). I obtained my MASc. at <ins>University of Toronto</ins> (Advisor: [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)), where I worked on Continual Learnin collaborating with [LG AI Research](https://www.lgresearch.ai/). I completed BASc. in [Engineering Science](https://engsci.utoronto.ca/) at <ins>University of Toronto</ins>.
 
 
 My research interests lie in 
 
-- **Efficient, Robust and Interpretable Foundation Model Adaptation**
-	* CVPR'25 x 3, NeurIPS'24, CVPR'23, NeurIPS'23
-- **Multimodal Model** 
-	- NAACL'25, CVPR'25, NeurIPS'24
-- **Continual Learning** 
-	- AAAI'21, CVPR'21, Neurocomputing, CVPR'20-Challenge(1st place), AIJ
+- **Efficient, Robust and Interpretable Foundation Model Adaptation**: [CVPR'25 (**Highlight**)](https://openaccess.thecvf.com/content/CVPR2025/html/Mai_Lessons_and_Insights_from_a_Unifying_Study_of_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Chowdhury_Prompt-CAM_Making_Vision_Transformers_Interpretable_for_Fine-Grained_Analysis_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Finer-CAM_Spotting_the_Difference_Reveals_Finer_Details_for_Visual_Explanation_CVPR_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f573c36434796efe066d2f4cf3349e7f-Abstract-Conference.html), [CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html),       [NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html)
+- **Vision Foundation Models & Multimodal Models**: [NAACL'25](https://arxiv.org/abs/2502.17599), [CVPR'25-W](https://openaccess.thecvf.com/content/CVPR2025W/eLVM/html/Xie_Efficiently_Mitigating_Video_Content_Misalignment_on_Large_Vision_Model_with_CVPRW_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html), [NeurIPS'23-W](https://arxiv.org/abs/2305.05803)
+- **Continual Learning**: [ICML'25-W](https://openreview.net/forum?id=2FKAoAmYOj) [AAAI'21(**Oral**)](https://ojs.aaai.org/index.php/AAAI/article/view/17159), [CVPR'21-W](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Mai_Supervised_Contrastive_Replay_Revisiting_the_Nearest_Class_Mean_Classifier_in_CVPRW_2021_paper.html), [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014995), [CVPR'20-Competition🏅](https://arxiv.org/abs/2007.05683), [AIJ](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867)
 
 
-
+<!--[Preprint-AVABench](https://arxiv.org/abs/2506.09082), [Preprint-BioCLIP2](https://arxiv.org/abs/2505.23883),-->
 
 <span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
@@ -51,13 +48,13 @@ feature channels.
 	
 - <span style="color:#e67300">Dec 2024 — **ICASSP 2025** Acceptance</span>
 
-	[Attention-Driven Causal Discovery: From Transformer Matrices to Granger Causal Graphs for Non-Stationary Time-series Data](https://2025.ieeeicassp.org/) was accepted to **ICASSP 2025**. We present a novel two-stage approach for causal discovery in non-stationary multivariate time series data.
+	[Attention-Driven Causal Discovery: From Transformer Matrices to Granger Causal Graphs for Non-Stationary Time-series Data](https://2025.ieeeicassp.org/) was accepted to **ICASSP 2025**. We present a two-stage approach for causal discovery in non-stationary multivariate time series data.
 
 - <span style="color:#e67300">Sept 2024 — Two **NeurIPS 2024** Acceptances</span> 
 	
   [Fine-Tuning is Fine, if Calibrated. ](https://arxiv.org/abs/2409.16223) was accepted to **NeurIPS** 2024. Fine-tuning a pre-trained classifier capable of recognizing a large number of classes to master a subset of classes at hand is shown to drastically degrade the performance in the other classes it had previously learned. We proposed simple post-processing calibration to bring back the pre-trained model’s capability. 
   
-  [MLLM-COMPBENCH: A Comparative Reasoning Benchmark for Multimodal LLMs. ](https://arxiv.org/pdf/2407.16837) was accepted to **NeurIPS** 2024. We introduce COMPBENCH, a benchmark designed to evaluate the comparative reasoning capability of multimodal large language models(MLLMs). COMPBENCH contains 40K image pairs with visually oriented questions covering eight dimensions of relative comparison: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality.
+  [MLLM-COMPBENCH: A Comparative Reasoning Benchmark for Multimodal LLMs. ](https://arxiv.org/pdf/2407.16837) was accepted to **NeurIPS** 2024. We introduce MLLM-COMPBENCH to evaluate the comparative reasoning capability of MLLMs, which contains 40K image pairs with visually oriented questions covering 8 relativities: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality.
 
 
 
