@@ -15,9 +15,15 @@ My research interests lie in
 
 <!--[Preprint-AVABench](https://arxiv.org/abs/2506.09082), [Preprint-BioCLIP2](https://arxiv.org/abs/2505.23883),-->
 
+
 <span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
+ - <span style="color:#e67300">July 2025 — **ICML** 2025 Workshop Acceptance</span>
+
+	[An Empirical Exploration of Continual Unlearning for Image Generation](https://openreview.net/pdf?id=2FKAoAmYOj). We present the first systematic study of continual unlearning in text-to-image generation.
+
+
 - <span style="color:#e67300">June 2025 — New preprint about **Atomic Visual Ability** in **Vision Foundation Models**</span>
 
 	[AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](https://arxiv.org/abs/2506.09082). We introduce AVA-BENCH, the first benchmark that explicitly disentangles 14 Atomic Visual Abilities (AVAs)—foundational skills like localization, depth estimation, and spatial understanding that collectively support complex visual reasoning tasks. By decoupling AVAs and matching train/test distributions within each, AVA-BENCH pinpoints exactly where a VFM excels or falters.
