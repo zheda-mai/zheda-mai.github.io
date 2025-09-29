@@ -3,14 +3,14 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a third-year CS Ph.D. student at <ins>The Ohio State University</ins> (Advisor:  [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao)). I obtained my MASc. at <ins>University of Toronto</ins> (Advisor: [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)), where I worked on Continual Learnin collaborating with [LG AI Research](https://www.lgresearch.ai/). I completed BASc. in [Engineering Science](https://engsci.utoronto.ca/) at <ins>University of Toronto</ins>.
+I am a CS Ph.D. student at <ins>The Ohio State University</ins> (Advisor:  [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao)). I obtained my MASc. at <ins>University of Toronto</ins> (Advisor: [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)), working on Continual Learning collaborating with [LG AI Research](https://www.lgresearch.ai/). I completed BASc. in [Engineering Science](https://engsci.utoronto.ca/) at <ins>University of Toronto</ins>.
 
 
 My research interests lie in 
 
-- **Efficient, Robust and Interpretable Foundation Model Adaptation**: [CVPR'25 (**Highlight**)](https://openaccess.thecvf.com/content/CVPR2025/html/Mai_Lessons_and_Insights_from_a_Unifying_Study_of_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Chowdhury_Prompt-CAM_Making_Vision_Transformers_Interpretable_for_Fine-Grained_Analysis_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Finer-CAM_Spotting_the_Difference_Reveals_Finer_Details_for_Visual_Explanation_CVPR_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f573c36434796efe066d2f4cf3349e7f-Abstract-Conference.html), [CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html),       [NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html)
-- **Vision Foundation Models & Multimodal Models**: [NAACL'25](https://arxiv.org/abs/2502.17599), [CVPR'25-W](https://openaccess.thecvf.com/content/CVPR2025W/eLVM/html/Xie_Efficiently_Mitigating_Video_Content_Misalignment_on_Large_Vision_Model_with_CVPRW_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html), [NeurIPS'23-W](https://arxiv.org/abs/2305.05803)
-- **Continual Learning**: [ICML'25-W](https://openreview.net/forum?id=2FKAoAmYOj) [AAAI'21(**Oral**)](https://ojs.aaai.org/index.php/AAAI/article/view/17159), [CVPR'21-W](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Mai_Supervised_Contrastive_Replay_Revisiting_the_Nearest_Class_Mean_Classifier_in_CVPRW_2021_paper.html), [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014995), [CVPR'20-Competition🏅](https://arxiv.org/abs/2007.05683), [AIJ](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867)
+- **Efficient, Robust and Interpretable Foundation Model Adaptation**: [NeurIPS'25](https://arxiv.org/abs/2503.09707), [CVPR'25 (<span style="color:red">**Highlight**</span>)](https://openaccess.thecvf.com/content/CVPR2025/html/Mai_Lessons_and_Insights_from_a_Unifying_Study_of_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Chowdhury_Prompt-CAM_Making_Vision_Transformers_Interpretable_for_Fine-Grained_Analysis_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Finer-CAM_Spotting_the_Difference_Reveals_Finer_Details_for_Visual_Explanation_CVPR_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f573c36434796efe066d2f4cf3349e7f-Abstract-Conference.html), [CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html),       [NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html)
+- **Vision Foundation Models & Multimodal Models**: [NeurIPS'25](https://arxiv.org/abs/2503.09707), [NAACL'25](https://arxiv.org/abs/2502.17599), [CVPR'25-W](https://openaccess.thecvf.com/content/CVPR2025W/eLVM/html/Xie_Efficiently_Mitigating_Video_Content_Misalignment_on_Large_Vision_Model_with_CVPRW_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html), [NeurIPS'23-W](https://arxiv.org/abs/2305.05803)
+- **Continual Learning**: [ICML'25-W](https://openreview.net/forum?id=2FKAoAmYOj), [AAAI'21(<span style="color:red">**Oral**</span>))](https://ojs.aaai.org/index.php/AAAI/article/view/17159), [CVPR'21-W](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Mai_Supervised_Contrastive_Replay_Revisiting_the_Nearest_Class_Mean_Classifier_in_CVPRW_2021_paper.html), [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014995), [CVPR'20-Competition🏅](https://arxiv.org/abs/2007.05683), [AIJ](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867)
 
 
 <!--[Preprint-AVABench](https://arxiv.org/abs/2506.09082), [Preprint-BioCLIP2](https://arxiv.org/abs/2505.23883),-->
@@ -19,6 +19,13 @@ My research interests lie in
 <span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
+
+ - <span style="color:#e67300">Sept 2025 — **Two NeurIPS** 2025 Acceptance</span>
+
+	[Revisiting semi-supervised learning in the era of foundation models](https://arxiv.org/abs/2503.09707). We provide a comprehensive emperical study of SSL with VFM and propose a simple but strong baseline leveraging the diverse predictions from different parameter-efficient fine-tuning (PEFT) methods. 
+	
+	[Bioclip 2: Emergent properties from scaling hierarchical contrastive learning](https://arxiv.org/abs/2503.09707). We curate TreeOfLife-200M, with 214 million images of living organisms, the largest and most diverse biological organism image dataset to date. We train BIOCLIP 2 on TREEOFLIFE-200M and found several emergent properties.
+
  - <span style="color:#e67300">July 2025 — **ICML** 2025 Workshop Acceptance</span>
 
 	[An Empirical Exploration of Continual Unlearning for Image Generation](https://openreview.net/pdf?id=2FKAoAmYOj). We present the first systematic study of continual unlearning in text-to-image generation.
@@ -35,18 +42,18 @@ My research interests lie in
 
 - <span style="color:#e67300">Feb 2025 — **Three CVPR 2025 Main Conference & One Workshop** Acceptance</span>
 		
-	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was accepted to **CVPR** 2025 as <span style="color:red">**Highlight (2.98%)**</span>. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
+	[Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition. ](https://zheda-mai.github.io/PEFT_Vision_CVPR25/)  was selected as <span style="color:red">**Highlight (2.98%)**</span>. Instead of chasing the leaderboard, we offer a complementary perspective of PEFT by conducting a unifying empirical study. We provide (1) a systematic framework for reproducible evaluations; (2) empirical recommendations on how to use different PEFT in various scenarios (low-shots, many-shots, varying domain gaps, and robustness to distribution shifts); (3) insightful directions for future research.
 
-	[Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis. ](https://arxiv.org/pdf/2501.09333) was accepted to **CVPR** 2025. We present PROMPT-CAM, an easily implementable, trainable, and reproducible interpretable method that
+	[Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis. ](https://arxiv.org/pdf/2501.09333). We present PROMPT-CAM, an easily implementable, trainable, and reproducible interpretable method that
 leverages the representations of pre-trained ViTs to identify and localize traits for fine-grained analysis.
 
-	[Finer-CAM: Spotting the Difference Reveals Finer Details for Visual Explanation. ](https://arxiv.org/pdf/2501.11309) was accepted to **CVPR** 2025. We propose
+	[Finer-CAM: Spotting the Difference Reveals Finer Details for Visual Explanation. ](https://arxiv.org/pdf/2501.11309). We propose
 Finer-CAM, a method that explicitly compares the target
 class with similar classes to reveal the most discriminative
 feature channels.
 
 
-	[Mitigating Video Content Misalignment on Large Vision Model with Time-Series Data Alignment]() was accepted to **CVPR** 2025 [Efficient Large Vision Models Workshop](https://sites.google.com/view/elvm/home).  
+	[Mitigating Video Content Misalignment on Large Vision Model with Time-Series Data Alignment]() was accepted to [Efficient Large Vision Models Workshop](https://sites.google.com/view/elvm/home).  
 	
 - <span style="color:#e67300">Jan 2025 — **NAACL 2025** Acceptance</span>
 
