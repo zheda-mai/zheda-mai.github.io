@@ -8,9 +8,11 @@ I am a CS Ph.D. student at <ins>The Ohio State University</ins> (Advisor:  [Wei-
 
 My research interests lie in 
 
-- **Efficient, Robust and Interpretable Foundation Model Adaptation**: [NeurIPS'25](https://arxiv.org/abs/2503.09707), [CVPR'25 (<span style="color:red">**Highlight**</span>)](https://openaccess.thecvf.com/content/CVPR2025/html/Mai_Lessons_and_Insights_from_a_Unifying_Study_of_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Chowdhury_Prompt-CAM_Making_Vision_Transformers_Interpretable_for_Fine-Grained_Analysis_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Finer-CAM_Spotting_the_Difference_Reveals_Finer_Details_for_Visual_Explanation_CVPR_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f573c36434796efe066d2f4cf3349e7f-Abstract-Conference.html), [CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html),       [NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html)
+
+- **Efficient, Robust and Interpretable Foundation Model Adaptation**: [TMLR'26](https://arxiv.org/abs/2510.13219), [NeurIPS'25](https://arxiv.org/abs/2503.09707), [CVPR'25 (<span style="color:red">**Highlight**</span>)](https://openaccess.thecvf.com/content/CVPR2025/html/Mai_Lessons_and_Insights_from_a_Unifying_Study_of_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Chowdhury_Prompt-CAM_Making_Vision_Transformers_Interpretable_for_Fine-Grained_Analysis_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Finer-CAM_Spotting_the_Difference_Reveals_Finer_Details_for_Visual_Explanation_CVPR_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f573c36434796efe066d2f4cf3349e7f-Abstract-Conference.html), [CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html),       [NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html)
 - **Vision Foundation Models & Multimodal Models**: [NeurIPS'25 (<span style="color:red">**Spotlight**</span>)](https://arxiv.org/abs/2505.23883), [NAACL'25](https://arxiv.org/abs/2502.17599), [CVPR'25-W](https://openaccess.thecvf.com/content/CVPR2025W/eLVM/html/Xie_Efficiently_Mitigating_Video_Content_Misalignment_on_Large_Vision_Model_with_CVPRW_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html), [NeurIPS'23-W](https://arxiv.org/abs/2305.05803)
-- **Continual Learning**: [ICML'25-W](https://openreview.net/forum?id=2FKAoAmYOj), [AAAI'21(<span style="color:red">**Oral**</span>)](https://ojs.aaai.org/index.php/AAAI/article/view/17159), [CVPR'21-W](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Mai_Supervised_Contrastive_Replay_Revisiting_the_Nearest_Class_Mean_Classifier_in_CVPRW_2021_paper.html), [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014995), [CVPR'20-Competition🏅](https://arxiv.org/abs/2007.05683), [AIJ](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867)
+- **Continual Learning**: [ICLR'26](https://arxiv.org/abs/2511.07970), [ICML'25-W](https://openreview.net/forum?id=2FKAoAmYOj), [AAAI'21(<span style="color:red">**Oral**</span>))](https://ojs.aaai.org/index.php/AAAI/article/view/17159), [CVPR'21-W](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Mai_Supervised_Contrastive_Replay_Revisiting_the_Nearest_Class_Mean_Classifier_in_CVPRW_2021_paper.html), [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014995), [CVPR'20-Competition🏅](https://arxiv.org/abs/2007.05683), [AIJ](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867)
+
 
 
 <!--[Preprint-AVABench](https://arxiv.org/abs/2506.09082), [Preprint-BioCLIP2](https://arxiv.org/abs/2505.23883),-->
@@ -19,7 +21,15 @@ My research interests lie in
 <span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
+  - <span style="color:#e67300">Feb 2026 — Preprint of **Continual Learning for Robotics Survey**</span>
 
+	[A Survey of Continual Learning for Robotics in the Foundation Model Era](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972367.76460794). We present the first comprehensive survey of Continual Learning for Robotics in the foundation model era, providing clear task formulations, a taxonomy of techniques, a review of benchmarks and environments, and a discussion of key challenges and future directions.
+ 
+ 
+ - <span style="color:#e67300">Jan 2026 — **ICLR** 2026 Acceptance</span>
+
+	[Continual Unlearning for Text-to-Image Diffusion Models: A Regularization Perspective](https://arxiv.org/abs/2511.07970). We extend our ICML workshop paper to provide a systematic understanding of why existing methods fail when unlearning continually and try to mitigate such degradation from a regularization perspective.	
+	
  - <span style="color:#e67300">Sept 2025 — **Two NeurIPS** 2025 Acceptance</span>
 
 	[Revisiting semi-supervised learning in the era of foundation models](https://arxiv.org/abs/2503.09707). We provide a comprehensive emperical study of SSL with VFM and propose a simple but strong baseline leveraging the diverse predictions from different parameter-efficient fine-tuning (PEFT) methods. 
