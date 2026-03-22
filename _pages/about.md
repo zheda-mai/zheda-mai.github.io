@@ -10,7 +10,7 @@ My research interests lie in
 
 
 - **Efficient, Robust and Interpretable Foundation Model Adaptation**: [TMLR'26](https://arxiv.org/abs/2510.13219), [NeurIPS'25](https://arxiv.org/abs/2503.09707), [CVPR'25 (<span style="color:red">**Highlight**</span>)](https://openaccess.thecvf.com/content/CVPR2025/html/Mai_Lessons_and_Insights_from_a_Unifying_Study_of_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Chowdhury_Prompt-CAM_Making_Vision_Transformers_Interpretable_for_Fine-Grained_Analysis_CVPR_2025_paper.html), [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Finer-CAM_Spotting_the_Difference_Reveals_Finer_Details_for_Visual_Explanation_CVPR_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f573c36434796efe066d2f4cf3349e7f-Abstract-Conference.html), [CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html),       [NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html)
-- **Vision Foundation Models & Multimodal Models**: [NeurIPS'25 (<span style="color:red">**Spotlight**</span>)](https://arxiv.org/abs/2505.23883), [NAACL'25](https://arxiv.org/abs/2502.17599), [CVPR'25-W](https://openaccess.thecvf.com/content/CVPR2025W/eLVM/html/Xie_Efficiently_Mitigating_Video_Content_Misalignment_on_Large_Vision_Model_with_CVPRW_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html), [NeurIPS'23-W](https://arxiv.org/abs/2305.05803)
+- **Vision Foundation Models & Multimodal Models**: [CVPR'26](https://arxiv.org/abs/2506.09082), [CVPR'26](https://arxiv.org/abs/2603.12433), [NeurIPS'25 (<span style="color:red">**Spotlight**</span>)](https://arxiv.org/abs/2505.23883), [NAACL'25](https://arxiv.org/abs/2502.17599), [CVPR'25-W](https://openaccess.thecvf.com/content/CVPR2025W/eLVM/html/Xie_Efficiently_Mitigating_Video_Content_Misalignment_on_Large_Vision_Model_with_CVPRW_2025_paper.html), [NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html), [NeurIPS'23-W](https://arxiv.org/abs/2305.05803)
 - **Continual Learning**: [ICLR'26](https://arxiv.org/abs/2511.07970), [ICML'25-W](https://openreview.net/forum?id=2FKAoAmYOj), [AAAI'21(<span style="color:red">**Oral**</span>))](https://ojs.aaai.org/index.php/AAAI/article/view/17159), [CVPR'21-W](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Mai_Supervised_Contrastive_Replay_Revisiting_the_Nearest_Class_Mean_Classifier_in_CVPRW_2021_paper.html), [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014995), [CVPR'20-Competition🏅](https://arxiv.org/abs/2007.05683), [AIJ](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867)
 
 
@@ -21,7 +21,20 @@ My research interests lie in
 <span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
 
 # News
-  - <span style="color:#e67300">Feb 2026 — Preprint of **Continual Learning for Robotics Survey**</span>
+
+ - <span style="color:#e67300">May 2026 — Research intern at **Amazon Robotics** </span>
+
+	I will join Amazon Robotics as a research intern working on VLA. 
+
+
+ - <span style="color:#e67300">Mar 2026 — **Two CVPR** 2026 Acceptance</span>
+ 
+	[AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](https://arxiv.org/abs/2506.09082).  AVA-Bench is the first benchmark that explicitly disentangles 14 Atomic Visual Abilities (AVAs), key skills like localization, depth estimation, and spatial understanding that collectively support complex visual reasoning tasks. AVA-Bench aims to pinpoints exactly where a VFM excels or falters.
+	
+	[Revisiting Model Stitching In the Foundation Model Era](https://arxiv.org/abs/2603.12433). We reveal how different Vision Foundation Models (VFMs) like CLIP and DINOv2 can be stitched to integrate their complementary strengths. Building on this, we introduce the VFM Stitch Tree (VST) to combine multiple VFMs while optimizing efficiency for multimodal LLMs.
+	
+
+ - <span style="color:#e67300">Feb 2026 — Preprint of **Continual Learning for Robotics Survey**</span>
 
 	[A Survey of Continual Learning for Robotics in the Foundation Model Era](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972367.76460794). We present the first comprehensive survey of Continual Learning for Robotics in the foundation model era, providing clear task formulations, a taxonomy of techniques, a review of benchmarks and environments, and a discussion of key challenges and future directions.
  
@@ -36,18 +49,6 @@ My research interests lie in
 	
 	[Bioclip 2: Emergent properties from scaling hierarchical contrastive learning](https://arxiv.org/abs/2505.23883). We curate TreeOfLife-200M, with 214 million images of living organisms, the largest and most diverse biological organism image dataset to date. We train BIOCLIP 2 on TREEOFLIFE-200M and found several emergent properties.
 
- - <span style="color:#e67300">July 2025 — **ICML** 2025 Workshop Acceptance</span>
-
-	[An Empirical Exploration of Continual Unlearning for Image Generation](https://openreview.net/pdf?id=2FKAoAmYOj). We present the first systematic study of continual unlearning in text-to-image generation.
-
-
-- <span style="color:#e67300">June 2025 — New preprint about **Atomic Visual Ability** in **Vision Foundation Models**</span>
-
-	[AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](https://arxiv.org/abs/2506.09082). We introduce AVA-BENCH, the first benchmark that explicitly disentangles 14 Atomic Visual Abilities (AVAs)—foundational skills like localization, depth estimation, and spatial understanding that collectively support complex visual reasoning tasks. By decoupling AVAs and matching train/test distributions within each, AVA-BENCH pinpoints exactly where a VFM excels or falters.
-
-- <span style="color:#e67300">May 2025 — Research intern at **Amazon Lab126** </span>
-
-	I will join Amazon Lab126 as a research intern working on multimodal models. 
 
 
 - <span style="color:#e67300">Feb 2025 — **Three CVPR 2025 Main Conference & One Workshop** Acceptance</span>
@@ -79,11 +80,6 @@ feature channels.
   
   [MLLM-COMPBENCH: A Comparative Reasoning Benchmark for Multimodal LLMs. ](https://arxiv.org/pdf/2407.16837) was accepted to **NeurIPS** 2024. We introduce MLLM-COMPBENCH to evaluate the comparative reasoning capability of MLLMs, which contains 40K image pairs with visually oriented questions covering 8 relativities: visual attribute, existence, state, emotion, temporality, spatiality, quantity, and quality.
 
-
-
-- <span style="color:#e67300">May 2024 — Research intern at **Bosch** </span>
-
-	I will join Bosch as a research intern working on time series + vision + language with foundation models. 
 
 
 - <span style="color:#e67300">Oct 2023 — **NeurIPS 2023** Outstanding Reviewer </span>
