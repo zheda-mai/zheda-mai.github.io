@@ -27,6 +27,12 @@ My research interests lie in
 	I will join Amazon Robotics as a research intern working on VLA. 
 
 
+ - <span style="color:#e67300">April 2026 — Received OSU CSE **Graduate Student Research Award** </span>
+
+	Recognition of my research in efficient vision foundation model adaption and understanding
+
+
+
  - <span style="color:#e67300">Mar 2026 — **Two CVPR** 2026 Acceptance</span>
  
 	[AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](https://arxiv.org/abs/2506.09082).  AVA-Bench is the first benchmark that explicitly disentangles 14 Atomic Visual Abilities (AVAs), key skills like localization, depth estimation, and spatial understanding that collectively support complex visual reasoning tasks. AVA-Bench aims to pinpoints exactly where a VFM excels or falters.
