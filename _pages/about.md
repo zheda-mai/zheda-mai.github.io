@@ -27,9 +27,14 @@ My research interests lie in
 	I will join Amazon Robotics as a research intern working on VLA. 
 
 
+ - <span style="color:#e67300">April 2026 — **NAIRR** Proposal Acceptance </span>
+
+	Our NAIRR proposal (as project lead) about [Conitnual Learning for Vision-Language-Action Models](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR260063) is accepted.
+	
+	
  - <span style="color:#e67300">April 2026 — Received OSU CSE **Graduate Student Research Award** </span>
 
-	Recognition of my research in efficient vision foundation model adaption and understanding
+	[Recognized for research in efficient vision foundation model adaption and understanding.](https://cse.osu.edu/news/2026/04/celebrating-excellence-30th-annual-cse-awards-banquet-wrap)
 
 
 
