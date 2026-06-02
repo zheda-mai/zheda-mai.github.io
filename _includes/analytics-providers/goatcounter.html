@@ -1,0 +1,5 @@
+{% assign goatcounter_code = site.analytics.goatcounter.code %}
+{% if goatcounter_code %}
+<script data-goatcounter="https://{{ goatcounter_code }}.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+{% endif %}

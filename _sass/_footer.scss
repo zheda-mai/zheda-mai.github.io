@@ -81,3 +81,15 @@ AM: added properties in .page__footer to fix footer at the bottom of the page*/
     font-weight: bold;
   }
 }
+
+.page__footer-visitor {
+  font-weight: bold;
+}
+
+.page__footer-visitor-label {
+  padding-right: 4px;
+}
+
+.page__footer-visitor-count {
+  text-transform: none;
+}

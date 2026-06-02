@@ -1,4 +1,5 @@
 {% include base_path %}
+{% assign goatcounter_code = site.analytics.goatcounter.code %}
 
 <div class="page__footer-follow">
   <ul class="social-icons">
@@ -17,9 +18,49 @@
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
+    {% if goatcounter_code %}
+      <li class="page__footer-visitor">
+        <span class="page__footer-visitor-label">Visits</span>
+        <span class="page__footer-visitor-count js-visitor-count">loading</span>
+      </li>
+    {% endif %}
 <!--     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
   </ul>
 </div>
+{% if goatcounter_code %}
+<script>
+  (function() {
+    var counts = document.querySelectorAll(".js-visitor-count");
+    if (!counts.length) return;
+
+    function setCount(value) {
+      for (var i = 0; i < counts.length; i++) {
+        counts[i].textContent = value;
+      }
+    }
+
+    var request = new XMLHttpRequest();
+    request.addEventListener("load", function() {
+      if (request.status < 200 || request.status >= 300) {
+        setCount("unavailable");
+        return;
+      }
+
+      try {
+        var data = JSON.parse(request.responseText);
+        setCount(data.count || "unavailable");
+      } catch (error) {
+        setCount("unavailable");
+      }
+    });
+    request.addEventListener("error", function() {
+      setCount("unavailable");
+    });
+    request.open("GET", "https://{{ goatcounter_code }}.goatcounter.com/counter/TOTAL.json");
+    request.send();
+  })();
+</script>
+{% endif %}
 <!-- 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
  -->
