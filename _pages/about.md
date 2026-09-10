@@ -3,28 +3,39 @@ permalink: /
 title: About Me
 author_profile: true
 ---
-I am a CS Ph.D. student at <ins>The Ohio State University</ins> (Advisor:  [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao)). I obtained my MASc. at <ins>University of Toronto</ins> (Advisor: [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)), working on Continual Learning collaborating with [LG AI Research](https://www.lgresearch.ai/). I completed BASc. in [Engineering Science](https://engsci.utoronto.ca/) at <ins>University of Toronto</ins>.
+I am a CS Ph.D. student at <ins>The Ohio State University</ins> (Advisor:  [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao)). I  interned at [Amazon Fauna Robotics](https://faunarobotics.com/), [Amazon Lab126](https://en.wikipedia.org/wiki/Amazon_Lab126), [Bosch Research](https://www.bosch.com/research/bcai/).  
+
+I obtained my MASc. at <ins>University of Toronto</ins> (Advisor: [Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)), working on Continual Learning collaborating with [LG AI Research](https://www.lgresearch.ai/). I completed BASc. in [Engineering Science](https://engsci.utoronto.ca/) at <ins>University of Toronto</ins>.
 
 
 My research interests lie in 
 
 
-- **Efficient, Robust and Interpretable Foundation Model Adaptation**: [[TMLR'26](https://arxiv.org/abs/2510.13219)], [[NeurIPS'25](https://arxiv.org/abs/2503.09707)], [[CVPR'25 (<span style="color:red">**Highlight**</span>)](https://openaccess.thecvf.com/content/CVPR2025/html/Mai_Lessons_and_Insights_from_a_Unifying_Study_of_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html)], [[CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Chowdhury_Prompt-CAM_Making_Vision_Transformers_Interpretable_for_Fine-Grained_Analysis_CVPR_2025_paper.html)], [[CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Finer-CAM_Spotting_the_Difference_Reveals_Finer_Details_for_Visual_Explanation_CVPR_2025_paper.html)], [[NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f573c36434796efe066d2f4cf3349e7f-Abstract-Conference.html)], [[CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html)],       [[NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html)]
+- **Efficient, Robust and Interpretable Foundation Model Adaptation**: [[TMLR'26](https://arxiv.org/abs/2510.13219)], [[ECCV'26](https://arxiv.org/abs/2603.20509)], [[NeurIPS'25](https://arxiv.org/abs/2503.09707)], [[CVPR'25 (<span style="color:red">**Highlight**</span>)](https://openaccess.thecvf.com/content/CVPR2025/html/Mai_Lessons_and_Insights_from_a_Unifying_Study_of_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html)], [[CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Chowdhury_Prompt-CAM_Making_Vision_Transformers_Interpretable_for_Fine-Grained_Analysis_CVPR_2025_paper.html)], [[CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Finer-CAM_Spotting_the_Difference_Reveals_Finer_Details_for_Visual_Explanation_CVPR_2025_paper.html)], [[NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f573c36434796efe066d2f4cf3349e7f-Abstract-Conference.html)], [[CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html)],       [[NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d087955ee13fe9a7402eedec879b9c3-Abstract-Conference.html)]
 - **Vision Foundation Models & Multimodal Models**: [[CVPR'26](https://arxiv.org/abs/2506.09082)], [[CVPR'26](https://arxiv.org/abs/2603.12433)], [[NeurIPS'25 (<span style="color:red">**Spotlight**</span>)](https://arxiv.org/abs/2505.23883)], [[NAACL'25](https://arxiv.org/abs/2502.17599)], [[NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html)], [[NeurIPS'23-W](https://arxiv.org/abs/2305.05803)]
 - **Continual Learning**: [[ICLR'26](https://arxiv.org/abs/2511.07970)], [[AAAI'21(<span style="color:red">**Oral**</span>)](https://ojs.aaai.org/index.php/AAAI/article/view/17159)], [[CVPR'21](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Mai_Supervised_Contrastive_Replay_Revisiting_the_Nearest_Class_Mean_Classifier_in_CVPRW_2021_paper.html)], [[Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231221014995)], [[CVPR'20-Competition🏅](https://arxiv.org/abs/2007.05683)], [[AIJ](https://www.sciencedirect.com/science/article/abs/pii/S0004370221001867)]
-
+- **Robotics**: [[Survey](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176972367.76460794/v3)]
 
 
 <!--[Preprint-AVABench](https://arxiv.org/abs/2506.09082), [Preprint-BioCLIP2](https://arxiv.org/abs/2505.23883),-->
 
 
-<span style="color:green">**I am actively looking for a research internship!  If you are aware of any opportunities or have any recommendations, I would greatly appreciate your insights and referrals. Please feel free to reach out!**</span>
+<span style="color:green">**I am currently on the job market and actively seeking postdoctoral and faculty positions. If you are aware of any relevant opportunities or have recommendations, please feel free to reach out.**</span>
 
 # News
 
- - <span style="color:#e67300">May 2026 — Research intern at **Amazon Robotics** </span>
+ - <span style="color:#e67300">Aug 2026 — **TMLR** Acceptance </span>
 
-	I will join Amazon Robotics as a research intern working on VLA. 
+	[MLLM4TS: Leveraging Vision and Multimodal Language
+Models for General Time-Series Analysis](https://openreview.net/pdf?id=bhd6naKDoL). MLLM4TS translates time-series into visual plots to harness the reasoning power of MLLMs. By pairing these visuals with numerical data, it achieves SOTA performance across forecasting and anomaly detection tasks.
+
+ - <span style="color:#e67300">June 2026 — **ECCV** 2026 Acceptance </span>
+
+	[Lessons and Open Questions from a Unified Study of Camera-Trap Species Recognition Over Time](https://arxiv.org/abs/2603.20509). We introduce a streaming benchmark to evaluate the long-term reliability of camera-trap species recognition models across chronological time intervals. We find that even biological foundation models struggle with dynamic temporal shifts, demonstrating that careful, site-specific adaptation is necessary for real-world ecological monitoring.
+
+ - <span style="color:#e67300">May 2026 — Research intern at **Amazon Fauna  Robotics** </span>
+
+	I joined Amazon Fauna Robotics as a research intern working on VLA and Human Robot Interaction. 
 
 
  - <span style="color:#e67300">April 2026 — **NAIRR** Proposal Acceptance </span>
